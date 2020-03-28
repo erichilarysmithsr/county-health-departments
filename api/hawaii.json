@@ -1,0 +1,57 @@
+[
+  {
+    "id": "1",
+    "name": "Hawaii District Health Office",
+    "website": "http://www.health.state.hi.us",
+    "twitter": "",
+    "facebook": "",
+    "rss": "",
+    "phone": "(808) 974-6006",
+    "email": "nda.rosen@doh.hawaii.gov",
+    "address": "75 Aupuni St # 201\nHilo, HI 96720-4245"
+  },
+  {
+    "id": "2",
+    "name": "Honolulu Department of Health",
+    "website": "",
+    "twitter": "",
+    "facebook": "",
+    "rss": "",
+    "phone": "(808) 586-4412",
+    "email": "lie.aquino@doh.hawaii.gov",
+    "address": "PO BOX 3378\nHonolulu, HI 96801-3378"
+  },
+  {
+    "id": "3",
+    "name": "Kalawao District Health Office",
+    "website": "",
+    "twitter": "",
+    "facebook": "",
+    "rss": "",
+    "phone": "(808) 567-6924",
+    "email": "mksato@live.com",
+    "address": "PO BOX 120\nKalaupapa, HI 96742-0120"
+  },
+  {
+    "id": "4",
+    "name": "Kauai District Health Office",
+    "website": "",
+    "twitter": "",
+    "facebook": "",
+    "rss": "",
+    "phone": "(808) 241-3614",
+    "email": "net.Berreman@doh.hawaii.gov",
+    "address": "3040 Umi St\nLihue, HI 96766-1828"
+  },
+  {
+    "id": "5",
+    "name": "Maui District Health Office",
+    "website": "",
+    "twitter": "",
+    "facebook": "",
+    "rss": "",
+    "phone": "(808) 984-8200",
+    "email": "rrin.pang@doh.hawaii.gov",
+    "address": "54 S High St Rm 301\nWailuku, HI 96793-2198"
+  }
+]

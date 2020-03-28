@@ -1,0 +1,134 @@
+[
+  {
+    "id": "1",
+    "name": "Barre Vermont Department of Health",
+    "website": "",
+    "twitter": "",
+    "facebook": "",
+    "rss": "",
+    "phone": "(802) 476-0161",
+    "email": "anMarie.Misek@vermont.gov",
+    "address": "5 Perry St Ste 250\nBarre, VT 05641-4286"
+  },
+  {
+    "id": "2",
+    "name": "Bennington Vermont Department of Health",
+    "website": "http://www.healthvermont.gov/local/bennington",
+    "twitter": "https://twitter.com/healthvermont",
+    "facebook": "",
+    "rss": "",
+    "phone": "(802) 447-6406",
+    "email": "S.VDHOLHBennington@vermont.gov",
+    "address": "324 Main St Ste 2\nBennington, VT 05201-2195"
+  },
+  {
+    "id": "3",
+    "name": "Brattleboro Vermont Department of Health",
+    "website": "http://www.healthvermont.gov/local/brattleboro",
+    "twitter": "",
+    "facebook": "",
+    "rss": "",
+    "phone": "802-257-2880",
+    "email": "S.VDHOLHBrattleboro@vermont.gov",
+    "address": "232 Main St Ste 3\nBrattleboro, VT 05301-4806"
+  },
+  {
+    "id": "4",
+    "name": "Burlington Vermont Department of Health",
+    "website": "http://healthvermont.gov",
+    "twitter": "",
+    "facebook": "",
+    "rss": "",
+    "phone": "(802) 951-0061",
+    "email": "ather.danis@vermont.gov",
+    "address": "108 Cherry ST Ste 102\nBurlington, VT 05401-4295"
+  },
+  {
+    "id": "5",
+    "name": "Middlebury Vermont Department of Health",
+    "website": "http://healthvermont.gov/local/district/Middlebury.aspx",
+    "twitter": "",
+    "facebook": "",
+    "rss": "",
+    "phone": "802-388-4644",
+    "email": "ira.cook@vermont.gov",
+    "address": "156 S Village Grn Ste 102\nMiddlebury, VT 05753-6902"
+  },
+  {
+    "id": "6",
+    "name": "Morrisville Vermont Department of Health",
+    "website": "http://healthvermont.gov",
+    "twitter": "",
+    "facebook": "",
+    "rss": "",
+    "phone": "802-888-0603",
+    "email": "zanne.Masland@vermont.gov",
+    "address": "63 Professional Dr Ste 1\nMorrisville, VT 05661-8522"
+  },
+  {
+    "id": "7",
+    "name": "Newport Vermont Department of Health",
+    "website": "http://healthvermont.gov",
+    "twitter": "",
+    "facebook": "",
+    "rss": "",
+    "phone": "802-334-6707",
+    "email": "stin.Barton-Caplin@vermont.gov",
+    "address": "100 Main St Ste 220\nNewport, VT 05855-4898"
+  },
+  {
+    "id": "8",
+    "name": "Rutland Vermont Department of Health",
+    "website": "http://www.healthvermont.gov/local/rutland",
+    "twitter": "",
+    "facebook": "",
+    "rss": "",
+    "phone": "802-786-5811",
+    "email": "nee.Bousquet@vermont.gov",
+    "address": "300 Asa Bloomer State Office Building\nRutland, VT 05701"
+  },
+  {
+    "id": "9",
+    "name": "Springfield District Vermont Department of Health",
+    "website": "http://www.healthvermont.gov/local/springfield",
+    "twitter": "",
+    "facebook": "",
+    "rss": "",
+    "phone": "802-289-0600",
+    "email": "cky.thomas@vermont.gov",
+    "address": "100 Mineral St Ste 104\nSpringfield, VT 05156-3166"
+  },
+  {
+    "id": "10",
+    "name": "St. Albans Vermont Department of Health",
+    "website": "http://healthvermont.gov",
+    "twitter": "",
+    "facebook": "",
+    "rss": "",
+    "phone": "802-524-7971",
+    "email": "dy.ashley@vermont.gov",
+    "address": "27 Federal ST Ste 201\nSaint Albans, VT 05478-2032"
+  },
+  {
+    "id": "11",
+    "name": "St. Johnsbury Vermont Department of Health",
+    "website": "http://www.healthvermont.gov/local/st-johnsbury",
+    "twitter": "",
+    "facebook": "",
+    "rss": "",
+    "phone": "802-748-5151",
+    "email": "",
+    "address": "107 Eastern Ave Ste 9\nSaint Johnsbury, VT 05819-2763"
+  },
+  {
+    "id": "12",
+    "name": "White River Junction Vermont Department of Health",
+    "website": "http://healthvermont.gov",
+    "twitter": "",
+    "facebook": "",
+    "rss": "",
+    "phone": "802-295-8830",
+    "email": "dolph.Fedrizzi@vermont.gov",
+    "address": "118 Prospect St Ste 300\nWhite River Junction, VT 05001-1616"
+  }
+]

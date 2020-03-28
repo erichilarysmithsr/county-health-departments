@@ -1,0 +1,578 @@
+[
+  {
+    "id": "1",
+    "name": "Adams County",
+    "website": "http://www.tchd.org/",
+    "twitter": "https://twitter.com/TCHDHealth",
+    "facebook": "https://www.facebook.com/cotchd/",
+    "rss": "",
+    "phone": "(303) 220-9200"
+  },
+  {
+    "id": "2",
+    "name": "Alamosa County",
+    "website": "https://www.colorado.gov/pacific/alamosacounty/public-health-2",
+    "twitter": "",
+    "facebook": "",
+    "rss": "",
+    "phone": "(719) 589-4848"
+  },
+  {
+    "id": "3",
+    "name": "Arapahoe County",
+    "website": "http://www.tchd.org/",
+    "twitter": "https://twitter.com/TCHDHealth",
+    "facebook": "https://www.facebook.com/cotchd/",
+    "rss": "",
+    "phone": "(303) 220-9200"
+  },
+  {
+    "id": "4",
+    "name": "Archuleta County",
+    "website": "https://sjbpublichealth.org/",
+    "twitter": "",
+    "facebook": "",
+    "rss": "",
+    "phone": "(970) 264 2409"
+  },
+  {
+    "id": "5",
+    "name": "Baca County",
+    "website": "https://www.bacacountyco.gov/departments/public-health/",
+    "twitter": "",
+    "facebook": "",
+    "rss": "",
+    "phone": "(719) 523-6621"
+  },
+  {
+    "id": "6",
+    "name": "Bent County",
+    "website": "https://bentcph.org/",
+    "twitter": "",
+    "facebook": "",
+    "rss": "",
+    "phone": "(719) 456-0517"
+  },
+  {
+    "id": "7",
+    "name": "Boulder County",
+    "website": "https://www.bouldercounty.org/departments/public-health/",
+    "twitter": "https://twitter.com/bouldercounty",
+    "facebook": "https://www.facebook.com/BoulderCounty/",
+    "rss": "",
+    "phone": "(303) 441-1100"
+  },
+  {
+    "id": "8",
+    "name": "City and County of Broomfield",
+    "website": "https://www.broomfield.org/260/Health-and-Human-Services",
+    "twitter": "https://www.broomfield.org/twitter",
+    "facebook": "https://www.facebook.com/Broomfield",
+    "rss": "",
+    "phone": "(303) 469-3301"
+  },
+  {
+    "id": "9",
+    "name": "Chaffee County",
+    "website": "https://www.chaffee-hhs.org/",
+    "twitter": "",
+    "facebook": "",
+    "rss": "",
+    "phone": "(719) 530-2500"
+  },
+  {
+    "id": "10",
+    "name": "Cheyenne County",
+    "website": "http://www.co.cheyenne.co.us/countydepartments/publichealth.htm",
+    "twitter": "",
+    "facebook": "",
+    "rss": "",
+    "phone": "(719) 767-5616"
+  },
+  {
+    "id": "11",
+    "name": "Clear Creek County",
+    "website": "https://www.clearcreekcounty.us/275/Public-Health",
+    "twitter": "",
+    "facebook": "",
+    "rss": "",
+    "phone": "(303) 670-7545 *",
+    "email": "* Crystal Brandt, RN"
+  },
+  {
+    "id": "12",
+    "name": "Conejos County",
+    "website": "https://www.conejoscounty.org/departments/business/public-health",
+    "twitter": "",
+    "facebook": "",
+    "rss": "",
+    "phone": "(719) 274-4307"
+  },
+  {
+    "id": "13",
+    "name": "Costilla County",
+    "website": "https://www.colorado.gov/pacific/costillacounty/public-health-agency",
+    "twitter": "",
+    "facebook": "",
+    "rss": "",
+    "phone": "(719) 672-3332"
+  },
+  {
+    "id": "14",
+    "name": "Crowley County",
+    "website": "https://www.colorado.gov/pacific/crowleycounty/health-department",
+    "twitter": "",
+    "facebook": "https://www.facebook.com/CrowleyCountyGov?ref=hl",
+    "rss": "",
+    "phone": "(719) 267-5245"
+  },
+  {
+    "id": "15",
+    "name": "Custer County",
+    "website": "http://oem.custercountygov.com/ph.htm",
+    "twitter": "",
+    "facebook": "",
+    "rss": "",
+    "phone": "(719) 783-3369"
+  },
+  {
+    "id": "16",
+    "name": "Delta County",
+    "website": "https://www.deltacounty.com/486/Health-Services",
+    "twitter": "https://twitter.com/DeltaCountyCO",
+    "facebook": "https://www.facebook.com/DeltaCountyCO/",
+    "rss": "",
+    "phone": "(970) 874-2165"
+  },
+  {
+    "id": "17",
+    "name": "City and County of Denver",
+    "website": "https://www.denverhealth.org/",
+    "twitter": "https://twitter.com/denverhealthmed",
+    "facebook": "https://www.facebook.com/DenverHealthMedical/",
+    "rss": "",
+    "phone": "(720) 902-4127"
+  },
+  {
+    "id": "18",
+    "name": "Dolores County",
+    "website": "http://www.dolorescounty.org/wp-content/themes/dolores-county/pdf/departments-and-contacts/Fact-Sheet-CDPHE.pdf",
+    "twitter": " ",
+    "facebook": " ",
+    "rss": "",
+    "phone": "(970) 677-2387"
+  },
+  {
+    "id": "19",
+    "name": "Douglas County",
+    "website": "http://www.tchd.org/",
+    "twitter": "https://twitter.com/TCHDHealth",
+    "facebook": "https://www.facebook.com/cotchd/",
+    "rss": "",
+    "phone": "(303) 220-9200"
+  },
+  {
+    "id": "20",
+    "name": "Eagle County",
+    "website": "https://www.eaglecounty.us/publichealth/",
+    "twitter": "http://www.twitter.com/EagleCounty",
+    "facebook": "http://www.facebook.com/EagleCounty",
+    "rss": "",
+    "phone": "(970) 328-8840"
+  },
+  {
+    "id": "21",
+    "name": "El Paso County",
+    "website": "https://www.elpasocountyhealth.org/",
+    "twitter": "https://twitter.com/EPCPublicHealth",
+    "facebook": "https://www.facebook.com/ElPasoCountyPublicHealth",
+    "rss": "",
+    "phone": "(719) 575-8888"
+  },
+  {
+    "id": "22",
+    "name": "Elbert County",
+    "website": "https://www.elbertcounty-co.gov/health_and_human_services.php",
+    "twitter": "",
+    "facebook": "",
+    "rss": "",
+    "phone": "(303) 621-3149"
+  },
+  {
+    "id": "23",
+    "name": "Fremont County",
+    "website": "https://www.fremontco.com/public-health/public-health-and-environment",
+    "twitter": "",
+    "facebook": "https://www.facebook.com/FremontCountyCO/",
+    "rss": "",
+    "phone": "(719) 276-7450"
+  },
+  {
+    "id": "24",
+    "name": "Garfield County",
+    "website": "https://www.garfield-county.com/public-health/",
+    "twitter": "",
+    "facebook": "",
+    "rss": "",
+    "phone": "(970) 625-5200"
+  },
+  {
+    "id": "25",
+    "name": "Gilpin County",
+    "website": "http://www.co.gilpin.co.us/departments/public_health_agency",
+    "twitter": "https://twitter.com/GilpinCounty",
+    "facebook": "https://www.facebook.com/GilpinCountyColorado",
+    "rss": "",
+    "phone": "(303) 582-5803"
+  },
+  {
+    "id": "26",
+    "name": "Grand County",
+    "website": "https://www.co.grand.co.us/220/Public-Health",
+    "twitter": " ",
+    "facebook": " ",
+    "rss": "",
+    "phone": "970-725-3288"
+  },
+  {
+    "id": "27",
+    "name": "Gunnison County",
+    "website": "https://www.gunnisoncounty.org/152/Clinical-Services",
+    "twitter": "",
+    "facebook": "",
+    "rss": "https://www.gunnisoncounty.org/Rss.aspx"
+  },
+  {
+    "id": "28",
+    "name": "Hinsdale County",
+    "website": "",
+    "twitter": "",
+    "facebook": "",
+    "rss": "",
+    "phone": "(970) 944-0321",
+    "email": "304 W 3rd St, Lake City, CO 81235"
+  },
+  {
+    "id": "29",
+    "name": "Huerfano County",
+    "website": "https://www.colorado.gov/la-h-health",
+    "twitter": "",
+    "facebook": "",
+    "rss": "",
+    "phone": "(719) 738-2650"
+  },
+  {
+    "id": "30",
+    "name": "Jackson County",
+    "website": "https://jacksoncountycogov.com/public-health/",
+    "twitter": "",
+    "facebook": "",
+    "rss": "",
+    "phone": "(970) 723-4660"
+  },
+  {
+    "id": "31",
+    "name": "Jefferson County",
+    "website": "https://www.jeffco.us/public-health",
+    "twitter": "https://twitter.com/JeffcoPH",
+    "facebook": "https://www.facebook.com/jeffcopublichealth",
+    "rss": "",
+    "phone": "(303) 232-6301"
+  },
+  {
+    "id": "32",
+    "name": "Kiowa County",
+    "website": "https://www.kiowacounty-colorado.com/kiowa_county_public_health.htm",
+    "twitter": "",
+    "facebook": "",
+    "rss": "",
+    "phone": "(719) 438-5782"
+  },
+  {
+    "id": "33",
+    "name": "Kit Carson County",
+    "website": "",
+    "twitter": "",
+    "facebook": "",
+    "rss": "",
+    "phone": "(719) 346-7158",
+    "email": "252 S 14th St, Burlington, CO 80807"
+  },
+  {
+    "id": "34",
+    "name": "La Plata County",
+    "website": "https://sjbpublichealth.org/",
+    "twitter": "",
+    "facebook": "",
+    "rss": "",
+    "phone": "(970) 264 2409"
+  },
+  {
+    "id": "35",
+    "name": "Lake County",
+    "website": "http://www.lakecountyco.com/health/",
+    "twitter": "",
+    "facebook": "",
+    "rss": "",
+    "phone": "(719) 486-2413"
+  },
+  {
+    "id": "36",
+    "name": "Larimer County",
+    "website": "https://www.larimer.org/health",
+    "twitter": "http://twitter.com/LarimerCounty",
+    "facebook": "http://facebook.com/larimercounty/",
+    "rss": "",
+    "phone": "(970) 498-7000"
+  },
+  {
+    "id": "37",
+    "name": "Las Animas County",
+    "website": "https://www.colorado.gov/la-h-health",
+    "twitter": "",
+    "facebook": "",
+    "rss": "",
+    "phone": "(719) 738-2650"
+  },
+  {
+    "id": "38",
+    "name": "Lincoln County",
+    "website": "http://lincolncountyco.us/public_health/public_health.html",
+    "twitter": "https://twitter.com/lincolncountyph",
+    "facebook": "https://www.facebook.com/lincolncountyph/",
+    "rss": "",
+    "phone": "(719) 743-2526"
+  },
+  {
+    "id": "39",
+    "name": "Logan County",
+    "website": "https://www.nchd.org/",
+    "twitter": "https://twitter.com/NortheastHealth",
+    "facebook": "https://www.facebook.com/northeasthealth/l",
+    "rss": "",
+    "phone": "(877) 795-0646"
+  },
+  {
+    "id": "40",
+    "name": "Mesa County",
+    "website": "https://health.mesacounty.us/",
+    "twitter": "https://twitter.com/MC_PublicHealth",
+    "facebook": "https://www.facebook.com/MesaCountyPublicHealth/",
+    "rss": "",
+    "phone": "(970) 248-6900"
+  },
+  {
+    "id": "41",
+    "name": "Mineral County",
+    "website": "https://www.colorado.gov/pacific/mineralcountycolorado/public-health-3",
+    "twitter": "",
+    "facebook": "",
+    "rss": "",
+    "phone": "(719) 658-2416"
+  },
+  {
+    "id": "42",
+    "name": "Moffat County",
+    "website": "https://northwestcoloradohealth.org/who_we_are/locations/craig-office.html",
+    "twitter": "https://twitter.com/nwcolohealth",
+    "facebook": "https://www.facebook.com/northwestcoloradohealth/",
+    "rss": "",
+    "phone": "(970) 824-8233"
+  },
+  {
+    "id": "43",
+    "name": "Montezuma County",
+    "website": "http://montezumacounty.org/web/departments/public-health/",
+    "twitter": "https://twitter.com/MontezumaHealth",
+    "facebook": "https://www.facebook.com/Montezumacountyhealth",
+    "rss": "",
+    "phone": "(970) 565-3056"
+  },
+  {
+    "id": "44",
+    "name": "Montrose County",
+    "website": "https://www.montrosecounty.net/107/Human-Services",
+    "twitter": "https://twitter.com/Montrose_County",
+    "facebook": "https://www.facebook.com/MontroseCounty",
+    "rss": "",
+    "phone": "(970) 252-5000"
+  },
+  {
+    "id": "45",
+    "name": "Morgan County",
+    "website": "https://www.nchd.org/",
+    "twitter": "https://twitter.com/NortheastHealth",
+    "facebook": "https://www.facebook.com/northeasthealth/l",
+    "rss": "",
+    "phone": "(877) 795-0646"
+  },
+  {
+    "id": "46",
+    "name": "Otero County",
+    "website": "https://www.oterogov.com/departments/health-department",
+    "twitter": "",
+    "facebook": "",
+    "rss": "",
+    "phone": "(719) 383-3040"
+  },
+  {
+    "id": "47",
+    "name": "Ouray County",
+    "website": "https://ouraycountyco.gov/149/Public-Health",
+    "twitter": "",
+    "facebook": "https://www.facebook.com/Ouray-County-Public-Health-Agency-182062005463174/",
+    "rss": "",
+    "phone": "(970) 325-4670"
+  },
+  {
+    "id": "48",
+    "name": "Park County",
+    "website": "http://www.parkco.us/86/Public-Health",
+    "twitter": "https://twitter.com/ParkCounty",
+    "facebook": "https://www.facebook.com/ParkCountyCO/",
+    "rss": "",
+    "phone": "(719) 836-4161"
+  },
+  {
+    "id": "49",
+    "name": "Phillips County",
+    "website": "https://www.nchd.org/",
+    "twitter": "https://twitter.com/NortheastHealth",
+    "facebook": "https://www.facebook.com/northeasthealth/l",
+    "rss": "",
+    "phone": "(877) 795-0646"
+  },
+  {
+    "id": "50",
+    "name": "Pitkin County",
+    "website": "https://pitkincounty.com/182/Human-Services",
+    "twitter": "https://twitter.com/pitkincounty",
+    "facebook": "https://www.facebook.com/pitkincounty",
+    "rss": "",
+    "phone": "(970) 920-5200"
+  },
+  {
+    "id": "51",
+    "name": "Prowers County",
+    "website": "https://www.prowerscounty.net/departments/public_health_and_environment/index.php",
+    "twitter": "",
+    "facebook": "",
+    "rss": "",
+    "phone": "(719) 336-8025"
+  },
+  {
+    "id": "52",
+    "name": "Pueblo County",
+    "website": "https://county.pueblo.org/public-health/pueblo-department-public-health-and-environment",
+    "twitter": "https://twitter.com/PuebloHealth",
+    "facebook": "https://www.facebook.com/PuebloHealth/",
+    "rss": "",
+    "phone": "(719) 583-4300"
+  },
+  {
+    "id": "53",
+    "name": "Rio Blanco County",
+    "website": "https://www.rbc.us/282/Public-Health",
+    "twitter": "",
+    "facebook": "https://www.facebook.com/RioBlancoCounty",
+    "rss": "",
+    "phone": "(970) 878-9520"
+  },
+  {
+    "id": "54",
+    "name": "Rio Grande County",
+    "website": "https://www.riograndecounty.org/public-health",
+    "twitter": "http://www.twitter.com/RioGrandeCounty",
+    "facebook": "http://www.facebook.com/RGCPublicHealth",
+    "rss": "",
+    "phone": "(719) 589-5807"
+  },
+  {
+    "id": "55",
+    "name": "Routt County",
+    "website": "http://www.co.routt.co.us/641/Public-Health",
+    "twitter": "https://twitter.com/Routt_CountyCO",
+    "facebook": "https://www.facebook.com/routtcounty/",
+    "rss": "",
+    "phone": "(970) 870-5319"
+  },
+  {
+    "id": "56",
+    "name": "Saguache County",
+    "website": "https://www.saguachecounty.net/index.php/public-health-home",
+    "twitter": "",
+    "facebook": "",
+    "rss": "",
+    "phone": "(719) 655-2533"
+  },
+  {
+    "id": "57",
+    "name": "San Juan County",
+    "website": "https://www.colorado.gov/sanjuan",
+    "twitter": "https://twitter.com/SanJuanCountyCo",
+    "facebook": "https://www.facebook.com/sjcph/"
+  },
+  {
+    "id": "58",
+    "name": "San Miguel County",
+    "website": "https://www.sanmiguelcountyco.gov/443/Public-Health",
+    "twitter": "https://www.sanmiguelcountyco.gov/twitter",
+    "facebook": "https://www.sanmiguelcountyco.gov/facebook",
+    "rss": "",
+    "phone": "(970) 728-4289"
+  },
+  {
+    "id": "59",
+    "name": "Sedgwick County",
+    "website": "https://www.nchd.org/",
+    "twitter": "https://twitter.com/NortheastHealth",
+    "facebook": "https://www.facebook.com/northeasthealth/l",
+    "rss": "",
+    "phone": "(877) 795-0646"
+  },
+  {
+    "id": "60",
+    "name": "Summit County",
+    "website": "http://co-summitcounty.civicplus.com/107/Public-Health",
+    "twitter": "https://twitter.com/SummitCountyGov",
+    "facebook": "https://www.facebook.com/SummitCountyGov/",
+    "rss": "",
+    "phone": "(970) 668-9161"
+  },
+  {
+    "id": "61",
+    "name": "Teller County",
+    "website": "http://www.co.teller.co.us/publichealth/",
+    "twitter": "",
+    "facebook": "https://www.facebook.com/Teller-County-Public-Health-Environment-547423902094818/",
+    "rss": "",
+    "phone": "(719) 687-6416"
+  },
+  {
+    "id": "62",
+    "name": "Washington County",
+    "website": "https://www.nchd.org/",
+    "twitter": "https://twitter.com/NortheastHealth",
+    "facebook": "https://www.facebook.com/northeasthealth/l",
+    "rss": "",
+    "phone": "(877) 795-0646"
+  },
+  {
+    "id": "63",
+    "name": "Weld County",
+    "website": "https://www.weldgov.com/departments/health_and_environment",
+    "twitter": "https://twitter.com/weldgov",
+    "facebook": "https://www.facebook.com/WeldCountyGovernment/",
+    "rss": "",
+    "phone": "(970) 400-4000"
+  },
+  {
+    "id": "64",
+    "name": "Yuma County",
+    "website": "https://www.nchd.org/",
+    "twitter": "https://twitter.com/NortheastHealth",
+    "facebook": "https://www.facebook.com/northeasthealth/l",
+    "rss": "",
+    "phone": "(877) 795-0646"
+  }
+]

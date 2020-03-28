@@ -1,1 +1,481 @@
-"[{\"id\":\"1\",\"name\":\"Alameda County\",\"website\":\"http://www.acphd.org\",\"twitter\":\"https://twitter.com/Dare2BWell\",\"facebook\":\"\",\"rss\":\"\",\"phone\":\"(510) 267-3200\"},{\"id\":\"2\",\"name\":\"Alpine County\",\"website\":\"https://www.alpinecountyca.gov\",\"twitter\":\"https://twitter.com/alpinecohealth\",\"facebook\":\"\",\"rss\":\"https://www.alpinecountyca.gov/rss.aspx#alertcenter\"},{\"id\":\"3\",\"name\":\"Amador County\",\"website\":\"https://www.amadorgov.org/services/public-health\",\"twitter\":\"https://twitter.com/AmadorHlthDept\",\"facebook\":\"https://www.facebook.com/AmadorPublicHealthDept/\"},{\"id\":\"4\",\"name\":\"Butte County\",\"website\":\"http://www.buttecounty.net/publichealth/Home/fbclid/IwAR3fSGcPIbTuP9oMALIinPe68ft2E_vscQm2hDlGwwyilvdXog7KZwY9vTw\",\"twitter\":\"https://twitter.com/BC_PubHealth\",\"facebook\":\"https://www.facebook.com/buttecountypublichealth/\"},{\"id\":\"5\",\"name\":\"Calaveras County\",\"website\":\"https://publichealth.calaverasgov.us/\",\"twitter\":\"\",\"facebook\":\"https://www.facebook.com/calaveraspublichealth/\"},{\"id\":\"6\",\"name\":\"Colusa County\",\"website\":\"http://www.countyofcolusa.org/99/Public-Health\",\"twitter\":\"https://twitter.com/ColusaDHHS\",\"facebook\":\"https://www.facebook.com/ColusaCountyPublicHealth/\"},{\"id\":\"7\",\"name\":\"Contra Costa County\",\"website\":\"https://cchealth.org/\",\"twitter\":\"https://twitter.com/cocohealth/\"},{\"id\":\"8\",\"name\":\"Del Norte County\",\"website\":\"http://www.co.del-norte.ca.us/departments/health-human-services/public-health\",\"twitter\":\"\",\"facebook\":\"https://www.facebook.com/dncpublichealth/\"},{\"id\":\"9\",\"name\":\"El Dorado County\",\"website\":\"https://www.edcgov.us/Government/PublicHealth\",\"twitter\":\"https://twitter.com/edcpublichealth\"},{\"id\":\"10\",\"name\":\"Fresno County\",\"website\":\"https://www.co.fresno.ca.us/departments/public-health\"},{\"id\":\"11\",\"name\":\"Glenn County\",\"website\":\"https://www.countyofglenn.net/dept/health-human-services/public-health/welcome\",\"twitter\":\"https://twitter.com/GlennCoHHSA\",\"facebook\":\"https://www.facebook.com/GlennCountyHHSA/\"},{\"id\":\"12\",\"name\":\"Humboldt County\",\"website\":\"https://humboldtgov.org/330/Public-Health\",\"twitter\":\"https://twitter.com/HumCoDHHS\",\"facebook\":\"https://www.facebook.com/humcodhhs/\"},{\"id\":\"13\",\"name\":\"Imperial County\",\"website\":\"http://www.icphd.org/\",\"twitter\":\"https://twitter.com/ICPublicHealth\",\"facebook\":\"https://www.facebook.com/icpublichealth/\",\"rss\":\"\",\"phone\":\"(442) 265-1444\"},{\"id\":\"14\",\"name\":\"Inyo County\",\"website\":\"https://www.inyocounty.us/services/health-human-services/public-health-and-prevention-division\"},{\"id\":\"15\",\"name\":\"Kern County\",\"website\":\"https://kernpublichealth.com/\",\"twitter\":\"https://twitter.com/KCPublicHealth\",\"facebook\":\"https://www.facebook.com/kernpublichealthservices/\",\"rss\":\"\",\"phone\":\"(661) 321-3000\"},{\"id\":\"16\",\"name\":\"Kings County\",\"website\":\"https://www.countyofkings.com/departments/health-welfare/public-health\"},{\"id\":\"17\",\"name\":\"Lake County\",\"website\":\"http://health.co.lake.ca.us/\"},{\"id\":\"18\",\"name\":\"Lassen County\",\"website\":\"https://npin.cdc.gov/organization/lassen-county-health-and-social-services-department\",\"twitter\":\"\",\"facebook\":\"https://www.facebook.com/LassenPH/\",\"rss\":\"\",\"phone\":\"(530) 251-8183\"},{\"id\":\"19\",\"name\":\"Los Angeles County\",\"website\":\"http://publichealth.lacounty.gov/\",\"twitter\":\"https://twitter.com/lapublichealth\",\"facebook\":\"https://www.facebook.com/lapublichealth/\",\"rss\":\"\",\"phone\":\"(213) 240-8144\"},{\"id\":\"20\",\"name\":\"Madera County\",\"website\":\"https://www.maderacounty.com/government/public-health\",\"twitter\":\"https://twitter.com/MaderaDPH\"},{\"id\":\"21\",\"name\":\"Marin County\",\"website\":\"https://www.marinhhs.org/public-health\",\"twitter\":\"https://twitter.com/MarinHHS\"},{\"id\":\"22\",\"name\":\"Mariposa County\",\"website\":\"https://www.mariposacounty.org/89/Public-Health\",\"twitter\":\"\",\"facebook\":\"https://www.facebook.com/MariposaCountyPublicHealth/\",\"rss\":\"\",\"phone\":\"(209) 966-3689\"},{\"id\":\"23\",\"name\":\"Mendocino County\",\"website\":\"https://www.mendocinocounty.org/government/health-and-human-services-agency/public-health\",\"twitter\":\"https://twitter.com/PublicHealthMC\",\"facebook\":\"https://www.facebook.com/PublicHealthMendocinoCo/\",\"rss\":\"\",\"phone\":\"(707) 472-2600\"},{\"id\":\"24\",\"name\":\"Merced County\",\"website\":\"https://www.co.merced.ca.us/82/Public-Health\",\"twitter\":\"\",\"facebook\":\"https://www.facebook.com/Merced-County-Department-of-Public-Health-1631558280484134/\",\"rss\":\"\",\"phone\":\"(209) 381-1200\"},{\"id\":\"25\",\"name\":\"Modoc County\",\"website\":\"http://www.co.modoc.ca.us/departments/health-services\",\"twitter\":\"\",\"facebook\":\"https://www.facebook.com/ModocCountyPublicHealth/\",\"rss\":\"\",\"phone\":\"(530) 233-6311\"},{\"id\":\"26\",\"name\":\"Mono County\",\"website\":\"https://monohealth.com/public-health\",\"twitter\":\"https://twitter.com/CountyMono\",\"facebook\":\"https://www.facebook.com/monohealthdepartment/\",\"rss\":\"\",\"phone\":\"844-330-2020\"},{\"id\":\"27\",\"name\":\"Monterey County\",\"website\":\"https://www.co.monterey.ca.us/government/departments-a-h/health/\",\"twitter\":\"https://twitter.com/MCHDPIO\",\"facebook\":\"https://www.facebook.com/mtyhd/\",\"rss\":\"\",\"phone\":\"(831) 755-4500\"},{\"id\":\"28\",\"name\":\"Napa County\",\"website\":\"https://www.countyofnapa.org/PublicHealth/\",\"twitter\":\"\",\"facebook\":\"\",\"rss\":\"\",\"phone\":\"707-253-4270\"},{\"id\":\"29\",\"name\":\"Nevada County\",\"website\":\"https://www.mynevadacounty.com/551/Public-Health\",\"twitter\":\"\",\"facebook\":\"\",\"rss\":\"\",\"phone\":\"(530) 265-1450\"},{\"id\":\"30\",\"name\":\"Orange County\",\"website\":\"https://www.ochealthinfo.com/phs/\",\"twitter\":\"\",\"facebook\":\"\",\"rss\":\"\",\"phone\":\"(714) 834-4499\"},{\"id\":\"31\",\"name\":\"Placer County\",\"website\":\"https://www.placer.ca.gov/2863/Public-Health\",\"twitter\":\"\",\"facebook\":\"\",\"rss\":\"\",\"phone\":\"530-889-7141\"},{\"id\":\"32\",\"name\":\"Plumas County\",\"website\":\"https://www.plumascounty.us/91/Public-Health-Agency\",\"twitter\":\"\",\"facebook\":\"\",\"rss\":\"\",\"phone\":\"(530) 283-6330\"},{\"id\":\"33\",\"name\":\"Riverside County\",\"website\":\"https://www.rivcoph.org/\",\"twitter\":\"https://twitter.com/rivcohealthpio\",\"facebook\":\"\",\"rss\":\"\",\"phone\":\"(951) 358-5000\"},{\"id\":\"34\",\"name\":\"Sacramento County\",\"website\":\"https://dhs.saccounty.net/PUB/Pages/PUB-Home.aspx\",\"twitter\":\"https://twitter.com/SacPublicHealth\",\"facebook\":\"\",\"rss\":\"\",\"phone\":\"(916) 875-5881\"},{\"id\":\"35\",\"name\":\"San Benito County\",\"website\":\"https://hhsa.cosb.us/publichealth/\",\"twitter\":\"https://twitter.com/PublicHealthSBC\",\"facebook\":\"\",\"rss\":\"\",\"phone\":\"(831) 637-5367\"},{\"id\":\"36\",\"name\":\"San Bernardino County\",\"website\":\"http://wp.sbcounty.gov/dph/\",\"twitter\":\"https://twitter.com/SBCountyPH\",\"facebook\":\"https://www.facebook.com/SBCPublicHealth/\",\"rss\":\"\",\"phone\":\"(800) 722-4777\"},{\"id\":\"37\",\"name\":\"San Diego County\",\"website\":\"https://www.sandiegocounty.gov/hhsa/programs/phs/\",\"twitter\":\"https://twitter.com/SDCountyHHSA\",\"facebook\":\"https://www.facebook.com/SDCountyHHSA\",\"rss\":\"\",\"phone\":\"619) 229-5400\"},{\"id\":\"38\",\"name\":\"San Francisco\",\"website\":\"https://www.sfdph.org/dph/default.asp\",\"twitter\":\"https://twitter.com/SF_DPH\",\"facebook\":\"https://www.facebook.com/sfpublichealth/\",\"rss\":\"\",\"phone\":\"(415) 554-2500\"},{\"id\":\"39\",\"name\":\"San Joaquin County\",\"website\":\"http://www.sjcphs.org/\",\"twitter\":\"https://twitter.com/sjcphs\",\"facebook\":\"https://www.facebook.com/SJCPHS/\",\"rss\":\"\",\"phone\":\"(209) 468-3400\"},{\"id\":\"40\",\"name\":\"San Luis Obispo County\",\"website\":\"https://www.slocounty.ca.gov/Departments/Health-Agency/Public-Health.aspx\",\"twitter\":\"\",\"facebook\":\"https://www.facebook.com/SLOpublichealth.org/\",\"rss\":\"\",\"phone\":\"(805) 781-5500\"},{\"id\":\"41\",\"name\":\"San Mateo County\",\"website\":\"https://www.smchealth.org/coronavirus\",\"twitter\":\"https://twitter.com/SMCHealth\",\"facebook\":\"https://www.facebook.com/SMCHealth/\",\"rss\":\"\",\"phone\":\"(650) 573-2764\"},{\"id\":\"42\",\"name\":\"Santa Barbara County\",\"website\":\"https://www.countyofsb.org/phd/\",\"twitter\":\"https://twitter.com/SBCPublicHealth\",\"facebook\":\"https://www.facebook.com/SBCountyPublicHealth/\",\"rss\":\"\",\"phone\":\"(805) 681-5407\"},{\"id\":\"43\",\"name\":\"Santa Clara County\",\"website\":\"https://www.sccgov.org/sites/phd/DiseaseInformation/novel-coronavirus/Pages/home.aspx\",\"twitter\":\"https://twitter.com/HealthySCC\",\"facebook\":\"https://www.facebook.com/sccpublichealth/\",\"rss\":\"\",\"phone\":\"(408) 792-5040\"},{\"id\":\"44\",\"name\":\"Santa Cruz County\",\"website\":\"https://www.santacruzhealth.org/\",\"twitter\":\"https://twitter.com/PublicHealthSCC\",\"facebook\":\"\",\"rss\":\"\",\"phone\":\"(831) 454-4000\"},{\"id\":\"45\",\"name\":\"Shasta County\",\"website\":\"https://www.co.shasta.ca.us/index/hhsa/public-health\",\"twitter\":\"https://twitter.com/ShastaHHSA\",\"facebook\":\"https://www.facebook.com/shastahhsa/\",\"rss\":\"\",\"phone\":\"(530) 225-5591\"},{\"id\":\"46\",\"name\":\"Sierra County\",\"website\":\"https://sierracounty.ca.gov/269/Public-Health\",\"twitter\":\"\",\"facebook\":\"\",\"rss\":\"\",\"phone\":\"530-993-6700\"},{\"id\":\"47\",\"name\":\"Siskiyou County\",\"website\":\"https://www.co.siskiyou.ca.us/publichealth\",\"twitter\":\"\",\"facebook\":\"https://www.facebook.com/siskiyoucountyph/\",\"rss\":\"\",\"phone\":\"(800) 442-2333\"},{\"id\":\"48\",\"name\":\"Solano County\",\"website\":\"http://www.solanocounty.com/depts/ph/default.asp\",\"twitter\":\"\",\"facebook\":\"https://www.facebook.com/SolanoCountyPH/\",\"rss\":\"\",\"phone\":\"(707) 784-8600\"},{\"id\":\"49\",\"name\":\"Sonoma County\",\"website\":\"https://sonomacounty.ca.gov/Health-Services/\",\"twitter\":\"https://twitter.com/SonomaCoHealth\",\"facebook\":\"https://www.facebook.com/SonomaCountyDHS/\",\"rss\":\"\",\"phone\":\"(707) 565-4700\"},{\"id\":\"50\",\"name\":\"Stanislaus County\",\"website\":\"http://www.schsa.org/\",\"twitter\":\"https://twitter.com/SCHSA\",\"facebook\":\"\",\"rss\":\"\",\"phone\":\"(209) 558-7000\"},{\"id\":\"51\",\"name\":\"Sutter County\",\"website\":\"https://www.suttercounty.org/doc/government/depts/hs/ph/hs_public_health\",\"twitter\":\"\",\"facebook\":\"\",\"rss\":\"\",\"phone\":\"(530) 822-7215\"},{\"id\":\"52\",\"name\":\"Tehama County\",\"website\":\"https://www.tehamacohealthservices.net/\",\"twitter\":\"\",\"facebook\":\"\",\"rss\":\"\",\"phone\":\"(530) 527-8491\"},{\"id\":\"53\",\"name\":\"Trinity County\",\"website\":\"https://www.trinitycounty.org/Public-Health\",\"twitter\":\"\",\"facebook\":\"\",\"rss\":\"\",\"phone\":\"(530) 623-8209\"},{\"id\":\"54\",\"name\":\"Tulare County\",\"website\":\"https://tchhsa.org/eng/index.cfm/public-health/\",\"twitter\":\"https://twitter.com/TulareCo_HHSA\",\"facebook\":\"https://www.facebook.com/TulareCountyHHSA\",\"rss\":\"\",\"phone\":\"(800) 834-7121\"},{\"id\":\"55\",\"name\":\"Tuolumne County\",\"website\":\"https://www.tuolumnecounty.ca.gov/250/Public-Health\",\"twitter\":\"\",\"facebook\":\"https://www.facebook.com/tuolumnecountypublichealth/\",\"rss\":\"\",\"phone\":\"(209) 533-7401\"},{\"id\":\"56\",\"name\":\"Ventura County\",\"website\":\"http://www.vchca.org/agency-divisions/public-health\",\"twitter\":\"https://twitter.com/vcpublichealth\",\"facebook\":\"\",\"rss\":\"\",\"phone\":\"(805) 652-5902\"},{\"id\":\"57\",\"name\":\"Yolo County\",\"website\":\"https://www.yolocounty.org/health-human-services\",\"twitter\":\"https://twitter.com/YoloHealth\",\"facebook\":\"\",\"rss\":\"\",\"phone\":\"(530) 666-8645\"},{\"id\":\"58\",\"name\":\"Yuba County\",\"website\":\"https://www.yuba.org/departments/health_and_human_services/index.php\",\"twitter\":\"\",\"facebook\":\"\",\"rss\":\"\",\"phone\":\"(530) 749-5450\"}]"
+[
+  {
+    "id": "1",
+    "name": "Alameda County",
+    "website": "http://www.acphd.org",
+    "twitter": "https://twitter.com/Dare2BWell",
+    "facebook": "",
+    "rss": "",
+    "phone": "(510) 267-3200"
+  },
+  {
+    "id": "2",
+    "name": "Alpine County",
+    "website": "https://www.alpinecountyca.gov",
+    "twitter": "https://twitter.com/alpinecohealth",
+    "facebook": "",
+    "rss": "https://www.alpinecountyca.gov/rss.aspx#alertcenter"
+  },
+  {
+    "id": "3",
+    "name": "Amador County",
+    "website": "https://www.amadorgov.org/services/public-health",
+    "twitter": "https://twitter.com/AmadorHlthDept",
+    "facebook": "https://www.facebook.com/AmadorPublicHealthDept/"
+  },
+  {
+    "id": "4",
+    "name": "Butte County",
+    "website": "http://www.buttecounty.net/publichealth/Home/fbclid/IwAR3fSGcPIbTuP9oMALIinPe68ft2E_vscQm2hDlGwwyilvdXog7KZwY9vTw",
+    "twitter": "https://twitter.com/BC_PubHealth",
+    "facebook": "https://www.facebook.com/buttecountypublichealth/"
+  },
+  {
+    "id": "5",
+    "name": "Calaveras County",
+    "website": "https://publichealth.calaverasgov.us/",
+    "twitter": "",
+    "facebook": "https://www.facebook.com/calaveraspublichealth/"
+  },
+  {
+    "id": "6",
+    "name": "Colusa County",
+    "website": "http://www.countyofcolusa.org/99/Public-Health",
+    "twitter": "https://twitter.com/ColusaDHHS",
+    "facebook": "https://www.facebook.com/ColusaCountyPublicHealth/"
+  },
+  {
+    "id": "7",
+    "name": "Contra Costa County",
+    "website": "https://cchealth.org/",
+    "twitter": "https://twitter.com/cocohealth/"
+  },
+  {
+    "id": "8",
+    "name": "Del Norte County",
+    "website": "http://www.co.del-norte.ca.us/departments/health-human-services/public-health",
+    "twitter": "",
+    "facebook": "https://www.facebook.com/dncpublichealth/"
+  },
+  {
+    "id": "9",
+    "name": "El Dorado County",
+    "website": "https://www.edcgov.us/Government/PublicHealth",
+    "twitter": "https://twitter.com/edcpublichealth"
+  },
+  {
+    "id": "10",
+    "name": "Fresno County",
+    "website": "https://www.co.fresno.ca.us/departments/public-health"
+  },
+  {
+    "id": "11",
+    "name": "Glenn County",
+    "website": "https://www.countyofglenn.net/dept/health-human-services/public-health/welcome",
+    "twitter": "https://twitter.com/GlennCoHHSA",
+    "facebook": "https://www.facebook.com/GlennCountyHHSA/"
+  },
+  {
+    "id": "12",
+    "name": "Humboldt County",
+    "website": "https://humboldtgov.org/330/Public-Health",
+    "twitter": "https://twitter.com/HumCoDHHS",
+    "facebook": "https://www.facebook.com/humcodhhs/"
+  },
+  {
+    "id": "13",
+    "name": "Imperial County",
+    "website": "http://www.icphd.org/",
+    "twitter": "https://twitter.com/ICPublicHealth",
+    "facebook": "https://www.facebook.com/icpublichealth/",
+    "rss": "",
+    "phone": "(442) 265-1444"
+  },
+  {
+    "id": "14",
+    "name": "Inyo County",
+    "website": "https://www.inyocounty.us/services/health-human-services/public-health-and-prevention-division"
+  },
+  {
+    "id": "15",
+    "name": "Kern County",
+    "website": "https://kernpublichealth.com/",
+    "twitter": "https://twitter.com/KCPublicHealth",
+    "facebook": "https://www.facebook.com/kernpublichealthservices/",
+    "rss": "",
+    "phone": "(661) 321-3000"
+  },
+  {
+    "id": "16",
+    "name": "Kings County",
+    "website": "https://www.countyofkings.com/departments/health-welfare/public-health"
+  },
+  {
+    "id": "17",
+    "name": "Lake County",
+    "website": "http://health.co.lake.ca.us/"
+  },
+  {
+    "id": "18",
+    "name": "Lassen County",
+    "website": "https://npin.cdc.gov/organization/lassen-county-health-and-social-services-department",
+    "twitter": "",
+    "facebook": "https://www.facebook.com/LassenPH/",
+    "rss": "",
+    "phone": "(530) 251-8183"
+  },
+  {
+    "id": "19",
+    "name": "Los Angeles County",
+    "website": "http://publichealth.lacounty.gov/",
+    "twitter": "https://twitter.com/lapublichealth",
+    "facebook": "https://www.facebook.com/lapublichealth/",
+    "rss": "",
+    "phone": "(213) 240-8144"
+  },
+  {
+    "id": "20",
+    "name": "Madera County",
+    "website": "https://www.maderacounty.com/government/public-health",
+    "twitter": "https://twitter.com/MaderaDPH"
+  },
+  {
+    "id": "21",
+    "name": "Marin County",
+    "website": "https://www.marinhhs.org/public-health",
+    "twitter": "https://twitter.com/MarinHHS"
+  },
+  {
+    "id": "22",
+    "name": "Mariposa County",
+    "website": "https://www.mariposacounty.org/89/Public-Health",
+    "twitter": "",
+    "facebook": "https://www.facebook.com/MariposaCountyPublicHealth/",
+    "rss": "",
+    "phone": "(209) 966-3689"
+  },
+  {
+    "id": "23",
+    "name": "Mendocino County",
+    "website": "https://www.mendocinocounty.org/government/health-and-human-services-agency/public-health",
+    "twitter": "https://twitter.com/PublicHealthMC",
+    "facebook": "https://www.facebook.com/PublicHealthMendocinoCo/",
+    "rss": "",
+    "phone": "(707) 472-2600"
+  },
+  {
+    "id": "24",
+    "name": "Merced County",
+    "website": "https://www.co.merced.ca.us/82/Public-Health",
+    "twitter": "",
+    "facebook": "https://www.facebook.com/Merced-County-Department-of-Public-Health-1631558280484134/",
+    "rss": "",
+    "phone": "(209) 381-1200"
+  },
+  {
+    "id": "25",
+    "name": "Modoc County",
+    "website": "http://www.co.modoc.ca.us/departments/health-services",
+    "twitter": "",
+    "facebook": "https://www.facebook.com/ModocCountyPublicHealth/",
+    "rss": "",
+    "phone": "(530) 233-6311"
+  },
+  {
+    "id": "26",
+    "name": "Mono County",
+    "website": "https://monohealth.com/public-health",
+    "twitter": "https://twitter.com/CountyMono",
+    "facebook": "https://www.facebook.com/monohealthdepartment/",
+    "rss": "",
+    "phone": "844-330-2020"
+  },
+  {
+    "id": "27",
+    "name": "Monterey County",
+    "website": "https://www.co.monterey.ca.us/government/departments-a-h/health/",
+    "twitter": "https://twitter.com/MCHDPIO",
+    "facebook": "https://www.facebook.com/mtyhd/",
+    "rss": "",
+    "phone": "(831) 755-4500"
+  },
+  {
+    "id": "28",
+    "name": "Napa County",
+    "website": "https://www.countyofnapa.org/PublicHealth/",
+    "twitter": "",
+    "facebook": "",
+    "rss": "",
+    "phone": "707-253-4270"
+  },
+  {
+    "id": "29",
+    "name": "Nevada County",
+    "website": "https://www.mynevadacounty.com/551/Public-Health",
+    "twitter": "",
+    "facebook": "",
+    "rss": "",
+    "phone": "(530) 265-1450"
+  },
+  {
+    "id": "30",
+    "name": "Orange County",
+    "website": "https://www.ochealthinfo.com/phs/",
+    "twitter": "",
+    "facebook": "",
+    "rss": "",
+    "phone": "(714) 834-4499"
+  },
+  {
+    "id": "31",
+    "name": "Placer County",
+    "website": "https://www.placer.ca.gov/2863/Public-Health",
+    "twitter": "",
+    "facebook": "",
+    "rss": "",
+    "phone": "530-889-7141"
+  },
+  {
+    "id": "32",
+    "name": "Plumas County",
+    "website": "https://www.plumascounty.us/91/Public-Health-Agency",
+    "twitter": "",
+    "facebook": "",
+    "rss": "",
+    "phone": "(530) 283-6330"
+  },
+  {
+    "id": "33",
+    "name": "Riverside County",
+    "website": "https://www.rivcoph.org/",
+    "twitter": "https://twitter.com/rivcohealthpio",
+    "facebook": "",
+    "rss": "",
+    "phone": "(951) 358-5000"
+  },
+  {
+    "id": "34",
+    "name": "Sacramento County",
+    "website": "https://dhs.saccounty.net/PUB/Pages/PUB-Home.aspx",
+    "twitter": "https://twitter.com/SacPublicHealth",
+    "facebook": "",
+    "rss": "",
+    "phone": "(916) 875-5881"
+  },
+  {
+    "id": "35",
+    "name": "San Benito County",
+    "website": "https://hhsa.cosb.us/publichealth/",
+    "twitter": "https://twitter.com/PublicHealthSBC",
+    "facebook": "",
+    "rss": "",
+    "phone": "(831) 637-5367"
+  },
+  {
+    "id": "36",
+    "name": "San Bernardino County",
+    "website": "http://wp.sbcounty.gov/dph/",
+    "twitter": "https://twitter.com/SBCountyPH",
+    "facebook": "https://www.facebook.com/SBCPublicHealth/",
+    "rss": "",
+    "phone": "(800) 722-4777"
+  },
+  {
+    "id": "37",
+    "name": "San Diego County",
+    "website": "https://www.sandiegocounty.gov/hhsa/programs/phs/",
+    "twitter": "https://twitter.com/SDCountyHHSA",
+    "facebook": "https://www.facebook.com/SDCountyHHSA",
+    "rss": "",
+    "phone": "619) 229-5400"
+  },
+  {
+    "id": "38",
+    "name": "San Francisco",
+    "website": "https://www.sfdph.org/dph/default.asp",
+    "twitter": "https://twitter.com/SF_DPH",
+    "facebook": "https://www.facebook.com/sfpublichealth/",
+    "rss": "",
+    "phone": "(415) 554-2500"
+  },
+  {
+    "id": "39",
+    "name": "San Joaquin County",
+    "website": "http://www.sjcphs.org/",
+    "twitter": "https://twitter.com/sjcphs",
+    "facebook": "https://www.facebook.com/SJCPHS/",
+    "rss": "",
+    "phone": "(209) 468-3400"
+  },
+  {
+    "id": "40",
+    "name": "San Luis Obispo County",
+    "website": "https://www.slocounty.ca.gov/Departments/Health-Agency/Public-Health.aspx",
+    "twitter": "",
+    "facebook": "https://www.facebook.com/SLOpublichealth.org/",
+    "rss": "",
+    "phone": "(805) 781-5500"
+  },
+  {
+    "id": "41",
+    "name": "San Mateo County",
+    "website": "https://www.smchealth.org/coronavirus",
+    "twitter": "https://twitter.com/SMCHealth",
+    "facebook": "https://www.facebook.com/SMCHealth/",
+    "rss": "",
+    "phone": "(650) 573-2764"
+  },
+  {
+    "id": "42",
+    "name": "Santa Barbara County",
+    "website": "https://www.countyofsb.org/phd/",
+    "twitter": "https://twitter.com/SBCPublicHealth",
+    "facebook": "https://www.facebook.com/SBCountyPublicHealth/",
+    "rss": "",
+    "phone": "(805) 681-5407"
+  },
+  {
+    "id": "43",
+    "name": "Santa Clara County",
+    "website": "https://www.sccgov.org/sites/phd/DiseaseInformation/novel-coronavirus/Pages/home.aspx",
+    "twitter": "https://twitter.com/HealthySCC",
+    "facebook": "https://www.facebook.com/sccpublichealth/",
+    "rss": "",
+    "phone": "(408) 792-5040"
+  },
+  {
+    "id": "44",
+    "name": "Santa Cruz County",
+    "website": "https://www.santacruzhealth.org/",
+    "twitter": "https://twitter.com/PublicHealthSCC",
+    "facebook": "",
+    "rss": "",
+    "phone": "(831) 454-4000"
+  },
+  {
+    "id": "45",
+    "name": "Shasta County",
+    "website": "https://www.co.shasta.ca.us/index/hhsa/public-health",
+    "twitter": "https://twitter.com/ShastaHHSA",
+    "facebook": "https://www.facebook.com/shastahhsa/",
+    "rss": "",
+    "phone": "(530) 225-5591"
+  },
+  {
+    "id": "46",
+    "name": "Sierra County",
+    "website": "https://sierracounty.ca.gov/269/Public-Health",
+    "twitter": "",
+    "facebook": "",
+    "rss": "",
+    "phone": "530-993-6700"
+  },
+  {
+    "id": "47",
+    "name": "Siskiyou County",
+    "website": "https://www.co.siskiyou.ca.us/publichealth",
+    "twitter": "",
+    "facebook": "https://www.facebook.com/siskiyoucountyph/",
+    "rss": "",
+    "phone": "(800) 442-2333"
+  },
+  {
+    "id": "48",
+    "name": "Solano County",
+    "website": "http://www.solanocounty.com/depts/ph/default.asp",
+    "twitter": "",
+    "facebook": "https://www.facebook.com/SolanoCountyPH/",
+    "rss": "",
+    "phone": "(707) 784-8600"
+  },
+  {
+    "id": "49",
+    "name": "Sonoma County",
+    "website": "https://sonomacounty.ca.gov/Health-Services/",
+    "twitter": "https://twitter.com/SonomaCoHealth",
+    "facebook": "https://www.facebook.com/SonomaCountyDHS/",
+    "rss": "",
+    "phone": "(707) 565-4700"
+  },
+  {
+    "id": "50",
+    "name": "Stanislaus County",
+    "website": "http://www.schsa.org/",
+    "twitter": "https://twitter.com/SCHSA",
+    "facebook": "",
+    "rss": "",
+    "phone": "(209) 558-7000"
+  },
+  {
+    "id": "51",
+    "name": "Sutter County",
+    "website": "https://www.suttercounty.org/doc/government/depts/hs/ph/hs_public_health",
+    "twitter": "",
+    "facebook": "",
+    "rss": "",
+    "phone": "(530) 822-7215"
+  },
+  {
+    "id": "52",
+    "name": "Tehama County",
+    "website": "https://www.tehamacohealthservices.net/",
+    "twitter": "",
+    "facebook": "",
+    "rss": "",
+    "phone": "(530) 527-8491"
+  },
+  {
+    "id": "53",
+    "name": "Trinity County",
+    "website": "https://www.trinitycounty.org/Public-Health",
+    "twitter": "",
+    "facebook": "",
+    "rss": "",
+    "phone": "(530) 623-8209"
+  },
+  {
+    "id": "54",
+    "name": "Tulare County",
+    "website": "https://tchhsa.org/eng/index.cfm/public-health/",
+    "twitter": "https://twitter.com/TulareCo_HHSA",
+    "facebook": "https://www.facebook.com/TulareCountyHHSA",
+    "rss": "",
+    "phone": "(800) 834-7121"
+  },
+  {
+    "id": "55",
+    "name": "Tuolumne County",
+    "website": "https://www.tuolumnecounty.ca.gov/250/Public-Health",
+    "twitter": "",
+    "facebook": "https://www.facebook.com/tuolumnecountypublichealth/",
+    "rss": "",
+    "phone": "(209) 533-7401"
+  },
+  {
+    "id": "56",
+    "name": "Ventura County",
+    "website": "http://www.vchca.org/agency-divisions/public-health",
+    "twitter": "https://twitter.com/vcpublichealth",
+    "facebook": "",
+    "rss": "",
+    "phone": "(805) 652-5902"
+  },
+  {
+    "id": "57",
+    "name": "Yolo County",
+    "website": "https://www.yolocounty.org/health-human-services",
+    "twitter": "https://twitter.com/YoloHealth",
+    "facebook": "",
+    "rss": "",
+    "phone": "(530) 666-8645"
+  },
+  {
+    "id": "58",
+    "name": "Yuba County",
+    "website": "https://www.yuba.org/departments/health_and_human_services/index.php",
+    "twitter": "",
+    "facebook": "",
+    "rss": "",
+    "phone": "(530) 749-5450"
+  }
+]

@@ -1,0 +1,867 @@
+[
+  {
+    "id": "1",
+    "name": "Accomack County Health Department",
+    "website": "http://www.vdh.virginia.gov/eastern-shore/",
+    "twitter": "",
+    "facebook": "https://www.facebook.com/EasternShoreHealthDistrict",
+    "rss": "",
+    "phone": "(757) 787-5880"
+  },
+  {
+    "id": "2",
+    "name": "Charlottesville/Albemarle Health Department",
+    "website": "http://www.vdh.virginia.gov/thomas-jefferson/clinic-locations/#cville",
+    "twitter": "https://twitter.com/HealthyTJHD",
+    "facebook": "https://www.facebook.com/TJHealth/",
+    "rss": "",
+    "phone": "(434) 972-6269"
+  },
+  {
+    "id": "3",
+    "name": "Alleghany County / Covington Health Department",
+    "website": "http://www.vdh.virginia.gov/alleghany/"
+  },
+  {
+    "id": "4",
+    "name": "Amelia County Health Department",
+    "website": "http://www.vdh.virginia.gov/piedmont/clinic-locations/",
+    "twitter": "",
+    "facebook": "",
+    "rss": "",
+    "phone": "(804) 561-2711"
+  },
+  {
+    "id": "5",
+    "name": "Amherst County Health Department",
+    "website": "http://www.vdh.virginia.gov/central-virginia/",
+    "twitter": "",
+    "facebook": "",
+    "rss": "",
+    "phone": "434-946-9408"
+  },
+  {
+    "id": "6",
+    "name": "Appomattox County Health Department",
+    "website": "http://www.vdh.virginia.gov/central-virginia/",
+    "twitter": "",
+    "facebook": "",
+    "rss": "",
+    "phone": "434-352-2313"
+  },
+  {
+    "id": "7",
+    "name": "Department of Health Services",
+    "website": "https://departments.arlingtonva.us/dhs/",
+    "twitter": "https://twitter.com/ArlingtonDHS",
+    "facebook": "",
+    "rss": "",
+    "phone": "703-228-1200"
+  },
+  {
+    "id": "8",
+    "name": "Staunton-Augusta Health Department",
+    "website": "http://www.vdh.virginia.gov/central-shenandoah/contact-us/",
+    "twitter": "",
+    "facebook": "https://www.facebook.com/TheHealthDepartment/",
+    "rss": "",
+    "phone": "(540) 332-7830"
+  },
+  {
+    "id": "9",
+    "name": "Waynesboro-Augusta Health Department",
+    "website": "http://www.vdh.virginia.gov/central-shenandoah/contact-us/",
+    "twitter": "",
+    "facebook": "https://www.facebook.com/TheHealthDepartment/",
+    "rss": "",
+    "phone": "(540) 949-0137"
+  },
+  {
+    "id": "10",
+    "name": "Bath County Health Department",
+    "website": "http://www.vdh.virginia.gov/central-shenandoah/contact-us/",
+    "twitter": "",
+    "facebook": "https://www.facebook.com/TheHealthDepartment/",
+    "rss": "",
+    "phone": "(540) 839-7246"
+  },
+  {
+    "id": "11",
+    "name": "Bedford County Health Department",
+    "website": "http://www.vdh.virginia.gov/central-virginia/",
+    "twitter": "",
+    "facebook": "",
+    "rss": "",
+    "phone": "540-586-7952"
+  },
+  {
+    "id": "12",
+    "name": "Bland County Health Department",
+    "website": "http://www.vdh.virginia.gov/mount-rogers/locations/",
+    "twitter": "https://twitter.com/MRHDvdh",
+    "facebook": "https://www.facebook.com/MountRogersHD/",
+    "rss": "",
+    "phone": "(276) 688-3642"
+  },
+  {
+    "id": "13",
+    "name": "Botetourt County Health Department",
+    "website": "http://www.vdh.virginia.gov/alleghany/botetourt-county-health-department/",
+    "twitter": "",
+    "facebook": "",
+    "rss": "",
+    "phone": "(540) 473-8240"
+  },
+  {
+    "id": "14",
+    "name": "Brunswick County Health Department",
+    "website": "http://www.vdh.virginia.gov/southside/locations/",
+    "twitter": "",
+    "facebook": "",
+    "rss": "",
+    "phone": "434-848-2525"
+  },
+  {
+    "id": "15",
+    "name": "Buchanan County Health Department",
+    "website": "http://www.vdh.virginia.gov/cumberland-plateau/offices/",
+    "twitter": "",
+    "facebook": "",
+    "rss": "",
+    "phone": "276-935-4591"
+  },
+  {
+    "id": "16",
+    "name": "Buckingham County Health Department",
+    "website": "http://www.vdh.virginia.gov/piedmont/clinic-locations/",
+    "twitter": "",
+    "facebook": "",
+    "rss": "",
+    "phone": "(434) 969-4244"
+  },
+  {
+    "id": "17",
+    "name": "Campbell County Health Department",
+    "website": "http://www.vdh.virginia.gov/central-virginia/",
+    "twitter": "",
+    "facebook": "",
+    "rss": "",
+    "phone": "434-592-9550"
+  },
+  {
+    "id": "18",
+    "name": "Caroline Health Department",
+    "website": "http://www.vdh.virginia.gov/rappahannock/caroline-county/",
+    "twitter": "",
+    "facebook": "",
+    "rss": "",
+    "phone": "804-633-5465"
+  },
+  {
+    "id": "19",
+    "name": "Carroll County Health Department",
+    "website": "http://www.vdh.virginia.gov/mount-rogers/locations/",
+    "twitter": "https://twitter.com/MRHDvdh",
+    "facebook": "https://www.facebook.com/MountRogersHD/",
+    "rss": "",
+    "phone": "(276) 730-3180"
+  },
+  {
+    "id": "20",
+    "name": "Charles City Health Department",
+    "website": "http://www.vdh.virginia.gov/chickahominy/charles-city/",
+    "twitter": "",
+    "facebook": "",
+    "rss": "",
+    "phone": "(804) 829-2490"
+  },
+  {
+    "id": "21",
+    "name": "Charlotte County Health Department",
+    "website": "http://www.vdh.virginia.gov/piedmont/clinic-locations/",
+    "twitter": "",
+    "facebook": "",
+    "rss": "",
+    "phone": "(434) 542-5251"
+  },
+  {
+    "id": "22",
+    "name": "Chesterfield Health Department",
+    "website": "http://www.vdh.virginia.gov/chesterfield/chesterfield-health-department/",
+    "twitter": "",
+    "facebook": "",
+    "rss": "",
+    "phone": "(804) 748-1691"
+  },
+  {
+    "id": "23",
+    "name": "Clarke County Health Department",
+    "website": "http://www.vdh.virginia.gov/lord-fairfax/",
+    "twitter": "",
+    "facebook": "",
+    "rss": "",
+    "phone": "(540) 955-1033"
+  },
+  {
+    "id": "24",
+    "name": "Craig County Health Department",
+    "website": "http://www.vdh.virginia.gov/alleghany/craig-county-health-department/",
+    "twitter": "",
+    "facebook": "",
+    "rss": "",
+    "phone": "(540) 864-5136"
+  },
+  {
+    "id": "25",
+    "name": "Culpeper County Health Department",
+    "website": "http://www.vdh.virginia.gov/rappahannock-rapidan/office-locations/",
+    "twitter": "",
+    "facebook": "",
+    "rss": "",
+    "phone": "540-829-7350"
+  },
+  {
+    "id": "26",
+    "name": "Cumberland County Health Department",
+    "website": "http://www.vdh.virginia.gov/piedmont/clinic-locations/",
+    "twitter": "",
+    "facebook": "",
+    "rss": "",
+    "phone": "(804) 492-4661"
+  },
+  {
+    "id": "27",
+    "name": "Dickenson County Health Department",
+    "website": "http://www.vdh.virginia.gov/cumberland-plateau/offices/",
+    "twitter": "",
+    "facebook": "",
+    "rss": "",
+    "phone": "276-926-4979"
+  },
+  {
+    "id": "28",
+    "name": "Dinwiddie Heatlh Department",
+    "website": "http://www.vdh.virginia.gov/crater/dinwiddie-clinic/",
+    "twitter": "",
+    "facebook": "",
+    "rss": "",
+    "phone": "(804) 469-3771"
+  },
+  {
+    "id": "29",
+    "name": "Essex County Health Department",
+    "website": "http://www.vdh.virginia.gov/three-rivers/health-departments/",
+    "twitter": "",
+    "facebook": "",
+    "rss": "",
+    "phone": "804-443-3396"
+  },
+  {
+    "id": "30",
+    "name": "Fairfax County Health Department",
+    "website": "https://www.fairfaxcounty.gov/health/",
+    "twitter": "https://twitter.com/fairfaxhealth",
+    "facebook": "https://www.facebook.com/fairfaxcountyhealth",
+    "rss": "",
+    "phone": "703-246-2411"
+  },
+  {
+    "id": "31",
+    "name": "Fauquier County Health Department",
+    "website": "http://www.vdh.virginia.gov/rappahannock-rapidan/office-locations/",
+    "twitter": "",
+    "facebook": "",
+    "rss": "",
+    "phone": "540-347-6400"
+  },
+  {
+    "id": "32",
+    "name": "Floyd County Health Department",
+    "website": "http://www.vdh.virginia.gov/new-river/locations/",
+    "twitter": "",
+    "facebook": "https://www.facebook.com/NewRiverHealthDistrict/",
+    "rss": "",
+    "phone": "(540) 745-2142"
+  },
+  {
+    "id": "33",
+    "name": "Fluvanna County Health Department",
+    "website": "http://www.vdh.virginia.gov/thomas-jefferson/clinic-locations/#fluvanna",
+    "twitter": "https://twitter.com/HealthyTJHD",
+    "facebook": "https://www.facebook.com/TJHealth/",
+    "rss": "",
+    "phone": "(434) 591-1960"
+  },
+  {
+    "id": "34",
+    "name": "Franklin County Health Department",
+    "website": "http://www.vdh.virginia.gov/west-piedmont/office-locations-contact-us/",
+    "twitter": "",
+    "facebook": "https://www.facebook.com/WestPiedmontHealthDistrict",
+    "rss": "",
+    "phone": "540-484-0292"
+  },
+  {
+    "id": "35",
+    "name": "Frederick/Winchester Health Department",
+    "website": "http://www.vdh.virginia.gov/lord-fairfax/",
+    "twitter": "",
+    "facebook": "",
+    "rss": "",
+    "phone": "(540) 722-3470"
+  },
+  {
+    "id": "36",
+    "name": "Giles County Health Department",
+    "website": "http://www.vdh.virginia.gov/new-river/locations/",
+    "twitter": "",
+    "facebook": "https://www.facebook.com/NewRiverHealthDistrict/",
+    "rss": "",
+    "phone": "(540) 235-3135"
+  },
+  {
+    "id": "37",
+    "name": "Gloucester County Health Department",
+    "website": "http://www.vdh.virginia.gov/three-rivers/health-departments/",
+    "twitter": "",
+    "facebook": "",
+    "rss": "",
+    "phone": "804-693-2445"
+  },
+  {
+    "id": "38",
+    "name": "Goochland Health Department",
+    "website": "http://www.vdh.virginia.gov/chickahominy/goochland/",
+    "twitter": "",
+    "facebook": "",
+    "rss": "",
+    "phone": "(804) 556-5843"
+  },
+  {
+    "id": "39",
+    "name": "Grayson County Health Department",
+    "website": "http://www.vdh.virginia.gov/mount-rogers/locations/",
+    "twitter": "https://twitter.com/MRHDvdh",
+    "facebook": "https://www.facebook.com/MountRogersHD/",
+    "rss": "",
+    "phone": "(276) 773-2961"
+  },
+  {
+    "id": "40",
+    "name": "Greene County Health Department",
+    "website": "http://www.vdh.virginia.gov/thomas-jefferson/clinic-locations/#greene",
+    "twitter": "https://twitter.com/HealthyTJHD",
+    "facebook": "https://www.facebook.com/TJHealth/",
+    "rss": "",
+    "phone": "(434) 985-2262"
+  },
+  {
+    "id": "41",
+    "name": "Greensville/Emporia Health Department",
+    "website": "http://www.vdh.virginia.gov/crater/greensville-emporia-clinic/",
+    "twitter": "",
+    "facebook": "",
+    "rss": "",
+    "phone": "(434) 348-4235"
+  },
+  {
+    "id": "42",
+    "name": "Halifax County Health Department",
+    "website": "http://www.vdh.virginia.gov/southside/locations/",
+    "twitter": "",
+    "facebook": "",
+    "rss": "",
+    "phone": "434-476-4863"
+  },
+  {
+    "id": "43",
+    "name": "Hanover Health Department",
+    "website": "http://www.vdh.virginia.gov/chickahominy/hanover/",
+    "twitter": "",
+    "facebook": "",
+    "rss": "",
+    "phone": "(804) 365-4313"
+  },
+  {
+    "id": "44",
+    "name": "Henrico County Health Department",
+    "website": "https://www.co.henrico.va.us/health/",
+    "twitter": "",
+    "facebook": "https://www.facebook.com/HenricoCountyHealthDepartment/",
+    "rss": "",
+    "phone": "(804) 501-4651"
+  },
+  {
+    "id": "45",
+    "name": "Henry/Martinsville Health Department",
+    "website": "http://www.vdh.virginia.gov/west-piedmont/office-locations-contact-us/",
+    "twitter": "",
+    "facebook": "https://www.facebook.com/WestPiedmontHealthDistrict",
+    "rss": "",
+    "phone": "276 -638-2311"
+  },
+  {
+    "id": "46",
+    "name": "Highland County Health Department",
+    "website": "http://www.vdh.virginia.gov/central-shenandoah/contact-us/",
+    "twitter": "",
+    "facebook": "https://www.facebook.com/TheHealthDepartment/",
+    "rss": "",
+    "phone": "(540) 468-2270"
+  },
+  {
+    "id": "47",
+    "name": "Isle of Wight County Health Department",
+    "website": "http://www.vdh.virginia.gov/western-tidewater/locations/",
+    "twitter": "",
+    "facebook": "",
+    "rss": "",
+    "phone": "757-357-4177"
+  },
+  {
+    "id": "48",
+    "name": "Williamsburg/James City County Health Department",
+    "website": "http://www.vdh.virginia.gov/peninsula/locations/",
+    "twitter": "",
+    "facebook": "",
+    "rss": "",
+    "phone": "(757) 253-4813"
+  },
+  {
+    "id": "49",
+    "name": "King & Queen County Health Department",
+    "website": "http://www.vdh.virginia.gov/three-rivers/health-departments/",
+    "twitter": "",
+    "facebook": "",
+    "rss": "",
+    "phone": "804-785-6154"
+  },
+  {
+    "id": "50",
+    "name": "King George County Health Department and Environmental Services",
+    "website": "http://www.vdh.virginia.gov/rappahannock/king-george-county-health-department-and-environmental-services/",
+    "twitter": "",
+    "facebook": "",
+    "rss": "",
+    "phone": "540-775-3111"
+  },
+  {
+    "id": "51",
+    "name": "King William County Health Department",
+    "website": "http://www.vdh.virginia.gov/three-rivers/health-departments/",
+    "twitter": "",
+    "facebook": "",
+    "rss": "",
+    "phone": "804-769-4988"
+  },
+  {
+    "id": "52",
+    "name": "Lancaster County Health Department",
+    "website": "http://www.vdh.virginia.gov/three-rivers/health-departments/",
+    "twitter": "",
+    "facebook": "",
+    "rss": "",
+    "phone": "804-462-5197"
+  },
+  {
+    "id": "53",
+    "name": "Lee County Health Department",
+    "website": "http://www.vdh.virginia.gov/lenowisco/",
+    "twitter": "",
+    "facebook": "",
+    "rss": "",
+    "phone": "(276) 346-2011"
+  },
+  {
+    "id": "54",
+    "name": "Loudoun County Health and Human Services",
+    "website": "https://www.loudoun.gov/health",
+    "twitter": "https://twitter.com/LoudounCoHealth",
+    "facebook": "https://www.facebook.com/LoudounCountyHealthDept",
+    "rss": "",
+    "phone": "703-777-0234"
+  },
+  {
+    "id": "55",
+    "name": "Louisa County Health Department",
+    "website": "http://www.vdh.virginia.gov/thomas-jefferson/clinic-locations/#louisa",
+    "twitter": "https://twitter.com/HealthyTJHD",
+    "facebook": "https://www.facebook.com/TJHealth/"
+  },
+  {
+    "id": "56",
+    "name": "Lunenburg County Health Department",
+    "website": "http://www.vdh.virginia.gov/piedmont/clinic-locations/",
+    "twitter": "",
+    "facebook": "",
+    "rss": "",
+    "phone": "(434) 696-2346"
+  },
+  {
+    "id": "57",
+    "name": "Madison County Health Department",
+    "website": "http://www.vdh.virginia.gov/rappahannock-rapidan/office-locations/",
+    "twitter": "",
+    "facebook": "",
+    "rss": "",
+    "phone": "540-948-5481"
+  },
+  {
+    "id": "58",
+    "name": "Mathews County Health Department",
+    "website": "http://www.vdh.virginia.gov/three-rivers/health-departments/",
+    "twitter": "",
+    "facebook": "",
+    "rss": "",
+    "phone": "804-725-7131"
+  },
+  {
+    "id": "59",
+    "name": "Mecklenburg County Health Department",
+    "website": "http://www.vdh.virginia.gov/southside/locations/",
+    "twitter": "",
+    "facebook": "",
+    "rss": "",
+    "phone": "434-738-6545"
+  },
+  {
+    "id": "60",
+    "name": "Middlesex County Health Department",
+    "website": "http://www.vdh.virginia.gov/three-rivers/health-departments/",
+    "twitter": "",
+    "facebook": "",
+    "rss": "",
+    "phone": "804-758-2381"
+  },
+  {
+    "id": "61",
+    "name": "Montgomery County Health Department",
+    "website": "http://www.vdh.virginia.gov/new-river/locations/",
+    "twitter": "",
+    "facebook": "https://www.facebook.com/NewRiverHealthDistrict/",
+    "rss": "",
+    "phone": "(540) 585-3300"
+  },
+  {
+    "id": "62",
+    "name": "Nelson County Health Department",
+    "website": "http://www.vdh.virginia.gov/thomas-jefferson/clinic-locations/#nelson",
+    "twitter": "https://twitter.com/HealthyTJHD",
+    "facebook": "https://www.facebook.com/TJHealth/"
+  },
+  {
+    "id": "63",
+    "name": "New Kent Health Department",
+    "website": "http://www.vdh.virginia.gov/chickahominy/new-kent/",
+    "twitter": "",
+    "facebook": "",
+    "rss": "",
+    "phone": "(804) 966-9640"
+  },
+  {
+    "id": "64",
+    "name": "Northampton County Health Department",
+    "website": "http://www.vdh.virginia.gov/eastern-shore/",
+    "twitter": "",
+    "facebook": "https://www.facebook.com/EasternShoreHealthDistrict",
+    "rss": "",
+    "phone": "(757) 442-6228"
+  },
+  {
+    "id": "65",
+    "name": "Northumberland County Health Department",
+    "website": "http://www.vdh.virginia.gov/three-rivers/health-departments/",
+    "twitter": "",
+    "facebook": "",
+    "rss": "",
+    "phone": "804-580-3731"
+  },
+  {
+    "id": "66",
+    "name": "Nottoway County Health Department",
+    "website": "http://www.vdh.virginia.gov/piedmont/clinic-locations/",
+    "twitter": "",
+    "facebook": "",
+    "rss": "",
+    "phone": "(434) 645-7595"
+  },
+  {
+    "id": "67",
+    "name": "Orange County Health Department",
+    "website": "http://www.vdh.virginia.gov/rappahannock-rapidan/office-locations/",
+    "twitter": "",
+    "facebook": "",
+    "rss": "",
+    "phone": "540-672-1291"
+  },
+  {
+    "id": "68",
+    "name": "Page County Health Department",
+    "website": "http://www.vdh.virginia.gov/lord-fairfax/",
+    "twitter": "",
+    "facebook": "",
+    "rss": "",
+    "phone": "(540) 743-6528"
+  },
+  {
+    "id": "69",
+    "name": "Patrick County Health Department",
+    "website": "http://www.vdh.virginia.gov/west-piedmont/office-locations-contact-us/",
+    "twitter": "",
+    "facebook": "https://www.facebook.com/WestPiedmontHealthDistrict",
+    "rss": "",
+    "phone": "276 -693-2070"
+  },
+  {
+    "id": "70",
+    "name": "Pittsylvania Danville Health District Headquarters",
+    "website": "http://www.vdh.virginia.gov/pittsylvania-danville/",
+    "twitter": "",
+    "facebook": "",
+    "rss": "",
+    "phone": "434-766-9828"
+  },
+  {
+    "id": "71",
+    "name": "Powhatan Health Department",
+    "website": "http://www.vdh.virginia.gov/chesterfield/powhatan-health-department/",
+    "twitter": "",
+    "facebook": "",
+    "rss": "",
+    "phone": "804-548-5680"
+  },
+  {
+    "id": "72",
+    "name": "Prince Edward County Health Department",
+    "website": "http://www.vdh.virginia.gov/piedmont/clinic-locations/",
+    "twitter": "",
+    "facebook": "",
+    "rss": "",
+    "phone": "(434) 392-8187"
+  },
+  {
+    "id": "73",
+    "name": "Prince George Health Department",
+    "website": "http://www.vdh.virginia.gov/crater/prince-george-clinic/",
+    "twitter": "",
+    "facebook": "",
+    "rss": "",
+    "phone": "804) 733-2630"
+  },
+  {
+    "id": "74",
+    "name": "Prince William Health District",
+    "website": "http://www.vdh.virginia.gov/prince-william/",
+    "twitter": "https://twitter.com/PrinceWilliamHD",
+    "facebook": "https://www.facebook.com/PrinceWilliamHD/",
+    "rss": "",
+    "phone": "703-792-7300"
+  },
+  {
+    "id": "75",
+    "name": "Pulaski County Health Department",
+    "website": "http://www.vdh.virginia.gov/new-river/locations/",
+    "twitter": "",
+    "facebook": "https://www.facebook.com/NewRiverHealthDistrict/",
+    "rss": "",
+    "phone": "(540) 440-2188"
+  },
+  {
+    "id": "76",
+    "name": "Rappahannock County Health Department",
+    "website": "http://www.vdh.virginia.gov/rappahannock-rapidan/office-locations/",
+    "twitter": "",
+    "facebook": "",
+    "rss": "",
+    "phone": "540-675-3516"
+  },
+  {
+    "id": "77",
+    "name": "Richmond County Health Department",
+    "website": "http://www.vdh.virginia.gov/three-rivers/health-departments/",
+    "twitter": "",
+    "facebook": "",
+    "rss": "",
+    "phone": "804-333-4043"
+  },
+  {
+    "id": "78",
+    "name": "Roanoke County/Salem Health Department",
+    "website": "http://www.vdh.virginia.gov/alleghany/roanoke-county-salem-health-department/",
+    "twitter": "",
+    "facebook": "",
+    "rss": "",
+    "phone": "(540) 387-5530"
+  },
+  {
+    "id": "79",
+    "name": "Roanoke County/Vinton Health Department",
+    "website": "http://www.vdh.virginia.gov/alleghany/roanoke-county-vinton-health-department/",
+    "twitter": "",
+    "facebook": "",
+    "rss": "",
+    "phone": "(540) 857-7800"
+  },
+  {
+    "id": "80",
+    "name": "Lexington-Rockbridge Health Department",
+    "website": "http://www.vdh.virginia.gov/central-shenandoah/contact-us/",
+    "twitter": "",
+    "facebook": "https://www.facebook.com/TheHealthDepartment/",
+    "rss": "",
+    "phone": "(540) 463-3185"
+  },
+  {
+    "id": "81",
+    "name": "Harrisonburg-Rockingham Health Department",
+    "website": "http://www.vdh.virginia.gov/central-shenandoah/contact-us/",
+    "twitter": "",
+    "facebook": "https://www.facebook.com/TheHealthDepartment/",
+    "rss": "",
+    "phone": "(540) 574-5101"
+  },
+  {
+    "id": "82",
+    "name": "Russell County Health Department",
+    "website": "http://www.vdh.virginia.gov/cumberland-plateau/offices/",
+    "twitter": "",
+    "facebook": "",
+    "rss": "",
+    "phone": "276-889-7621"
+  },
+  {
+    "id": "83",
+    "name": "Scott County Health Department",
+    "website": "http://www.vdh.virginia.gov/lenowisco/",
+    "twitter": "",
+    "facebook": "",
+    "rss": "",
+    "phone": "(276) 386-1312"
+  },
+  {
+    "id": "84",
+    "name": "Shenandoah County Health Department",
+    "website": "http://www.vdh.virginia.gov/lord-fairfax/",
+    "twitter": "",
+    "facebook": "",
+    "rss": "",
+    "phone": "(540) 459-3733"
+  },
+  {
+    "id": "85",
+    "name": "Smyth County Health Department",
+    "website": "http://www.vdh.virginia.gov/mount-rogers/locations/",
+    "twitter": "https://twitter.com/MRHDvdh",
+    "facebook": "https://www.facebook.com/MountRogersHD/",
+    "rss": "",
+    "phone": "(276) 781-7460"
+  },
+  {
+    "id": "86",
+    "name": "Southampton County Health Department",
+    "website": "http://www.vdh.virginia.gov/western-tidewater/locations/",
+    "twitter": "",
+    "facebook": "",
+    "rss": "",
+    "phone": "757-653-3040"
+  },
+  {
+    "id": "87",
+    "name": "Spotsylvania Health Department",
+    "website": "http://www.vdh.virginia.gov/rappahannock/spotsylvania-county-health-department-and-environmental-services/",
+    "twitter": "",
+    "facebook": "",
+    "rss": "",
+    "phone": "540-507-7400"
+  },
+  {
+    "id": "88",
+    "name": "Stafford County Health Department",
+    "website": "http://www.vdh.virginia.gov/rappahannock/stafford-county-health-department/",
+    "twitter": "",
+    "facebook": "",
+    "rss": "",
+    "phone": "540-659-3101"
+  },
+  {
+    "id": "89",
+    "name": "Surry Health Department",
+    "website": "http://www.vdh.virginia.gov/crater/surry-clinic/",
+    "twitter": "",
+    "facebook": "",
+    "rss": "",
+    "phone": "(757) 294-3185"
+  },
+  {
+    "id": "90",
+    "name": "Susssex Health Department",
+    "website": "http://www.vdh.virginia.gov/crater/sussex-clinic/",
+    "twitter": "",
+    "facebook": "",
+    "rss": "",
+    "phone": "(434) 246-8611"
+  },
+  {
+    "id": "91",
+    "name": "Tazewell County Health Department",
+    "website": "http://www.vdh.virginia.gov/cumberland-plateau/offices/",
+    "twitter": "",
+    "facebook": "",
+    "rss": "",
+    "phone": "276-988-5585"
+  },
+  {
+    "id": "92",
+    "name": "Warren County Health Department",
+    "website": "http://www.vdh.virginia.gov/lord-fairfax/",
+    "twitter": "",
+    "facebook": "",
+    "rss": "",
+    "phone": "(540) 635-3159"
+  },
+  {
+    "id": "93",
+    "name": "Washington County Health Department",
+    "website": "http://www.vdh.virginia.gov/mount-rogers/locations/",
+    "twitter": "https://twitter.com/MRHDvdh",
+    "facebook": "https://www.facebook.com/MountRogersHD/",
+    "rss": "",
+    "phone": "(276) 676-5604"
+  },
+  {
+    "id": "94",
+    "name": "Westmoreland County Health Department",
+    "website": "http://www.vdh.virginia.gov/three-rivers/health-departments/",
+    "twitter": "",
+    "facebook": "",
+    "rss": "",
+    "phone": "804-493-1124"
+  },
+  {
+    "id": "95",
+    "name": "Wise County Health Department",
+    "website": "http://www.vdh.virginia.gov/lenowisco/",
+    "twitter": "",
+    "facebook": "",
+    "rss": "",
+    "phone": "(276) 328-8000"
+  },
+  {
+    "id": "96",
+    "name": "Wythe County Health Department",
+    "website": "http://www.vdh.virginia.gov/mount-rogers/locations/",
+    "twitter": "https://twitter.com/MRHDvdh",
+    "facebook": "https://www.facebook.com/MountRogersHD/",
+    "rss": "",
+    "phone": "(276) 228-5507"
+  },
+  {
+    "id": "97",
+    "name": "York/Denbigh WIC Clinic",
+    "website": "http://www.vdh.virginia.gov/peninsula/locations/",
+    "twitter": "",
+    "facebook": "",
+    "rss": "",
+    "phone": "(757) 886-2810"
+  }
+]

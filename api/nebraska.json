@@ -1,0 +1,222 @@
+[
+  {
+    "id": "1",
+    "name": "Central District Health Department",
+    "website": "http://cdhd.ne.gov",
+    "twitter": "",
+    "facebook": "",
+    "rss": "",
+    "phone": "(308) 385-5175 (25)",
+    "email": "nderson@cdhd.ne.gov",
+    "address": "1137 S Locust St\nGrand Island, NE 68801-6771"
+  },
+  {
+    "id": "2",
+    "name": "Dakota County Health Department",
+    "website": "http://dakotacountyne.org/",
+    "twitter": "",
+    "facebook": "",
+    "rss": "",
+    "phone": "(402) 987-2161",
+    "email": "ansen@dakotacountyne.org",
+    "address": "1601 Broadway\nDakota City, NE 68731-5065"
+  },
+  {
+    "id": "3",
+    "name": "Douglas County Health Department",
+    "website": "http://www.douglascountyhealth.com/",
+    "twitter": "https://twitter.com/HealthDouglasCo",
+    "facebook": "",
+    "rss": "",
+    "phone": "(402) 444-7471",
+    "email": "i.pour@douglascounty-ne.gov",
+    "address": "1111 South 41st st.#205\nOmaha, NE 68105-0001"
+  },
+  {
+    "id": "4",
+    "name": "East Central District Health Department",
+    "website": "https://ecdhd.ne.gov/",
+    "twitter": "",
+    "facebook": "",
+    "rss": "",
+    "phone": "(402) 563-9656.",
+    "email": "epers@ecdhd.ne.gov",
+    "address": "4321 41st Ave\nColumbus, NE 68601-2131"
+  },
+  {
+    "id": "5",
+    "name": "Elkhorn Logan Valley Health Department",
+    "website": "http://www.elvphd.org",
+    "twitter": "",
+    "facebook": "",
+    "rss": "",
+    "phone": "(402) 529-2233",
+    "email": "na@elvphd.org",
+    "address": "PO BOX 779\nWisner, NE 68791-0779"
+  },
+  {
+    "id": "6",
+    "name": "Four Corners Health Department",
+    "website": "http://fourcorners.ne.gov",
+    "twitter": "",
+    "facebook": "",
+    "rss": "",
+    "phone": "(402) 362-2621",
+    "email": "uram@fourcorners.ne.gov",
+    "address": "2101 N Lincoln Ave\nYork, NE 68467-1027"
+  },
+  {
+    "id": "7",
+    "name": "Lincoln-Lancaster County Health Department",
+    "website": "http://www.lincoln.ne.gov/health",
+    "twitter": "",
+    "facebook": "",
+    "rss": "",
+    "phone": "(402) 441-8000 (71)",
+    "email": "dwards@lincoln.ne.gov",
+    "address": "3131 O ST\nLincoln, NE 68510-1514"
+  },
+  {
+    "id": "8",
+    "name": "Loup Basin Public Health Department",
+    "website": "http://www.loupbasinhealth.com",
+    "twitter": "",
+    "facebook": "",
+    "rss": "",
+    "phone": "(308) 346-5795",
+    "email": "one@lbphd.org",
+    "address": "PO BOX 995\nBurwell, NE 68823-0995"
+  },
+  {
+    "id": "9",
+    "name": "Midtown Health Center",
+    "website": "",
+    "twitter": "",
+    "facebook": "",
+    "rss": "",
+    "phone": "402-3701072",
+    "email": "mith@midtownhealthne.org",
+    "address": "302 W Phillip Ave\nNorfolk, NE 68701-5248"
+  },
+  {
+    "id": "10",
+    "name": "North Central District Health Department (NCDHD)",
+    "website": "http://www.ncdhd.ne.gov",
+    "twitter": "",
+    "facebook": "",
+    "rss": "",
+    "phone": "(402) 336-2406",
+    "email": "ger@ncdhd.ne.gov",
+    "address": "422 E Douglas St\nO' Neill, NE 68763-1852"
+  },
+  {
+    "id": "11",
+    "name": "Northeast Nebraska Public Health Department",
+    "website": "http://www.nnphd.org",
+    "twitter": "",
+    "facebook": "",
+    "rss": "",
+    "phone": "(402) 375-2200",
+    "email": "lie@nnphd.org",
+    "address": "215 N Pearl St\nWayne, NE 68787-1975"
+  },
+  {
+    "id": "12",
+    "name": "Panhandle Public Health District",
+    "website": "http://www.pphd.org",
+    "twitter": "",
+    "facebook": "",
+    "rss": "",
+    "phone": "(308) 487-3600",
+    "email": "ngel@pphd.org",
+    "address": "PO BOX 337\nHemingford, NE 69348-0337"
+  },
+  {
+    "id": "13",
+    "name": "Public Health Solutions District Health Department",
+    "website": "http://www.phsneb.org",
+    "twitter": "https://twitter.com/PHSHealthDept",
+    "facebook": "",
+    "rss": "",
+    "phone": "(402) 826-3880",
+    "email": "howalter@phsneb.org",
+    "address": "995 E Highway 33 Ste 1\nCrete, NE 68333-2578"
+  },
+  {
+    "id": "14",
+    "name": "Sarpy/Cass Health Department",
+    "website": "http://sarpycasshealthdepartment.org/",
+    "twitter": "https://twitter.com/SarpyCassHealth",
+    "facebook": "",
+    "rss": "",
+    "phone": "(402) 339-4334 (206)",
+    "email": "chram@sarpycasshealth.com",
+    "address": "Huntington Plaza, 701 Olson Dr., Suite 101\nPapillion, NE 68046"
+  },
+  {
+    "id": "15",
+    "name": "South Heartland District Health Department",
+    "website": "http://www.southheartlandhealth.org",
+    "twitter": "",
+    "facebook": "",
+    "rss": "",
+    "phone": "(402) 462-6211",
+    "email": "chele.bever@shdhd.org",
+    "address": "606 N Minnesota Ave Ste 2\nHastings, NE 68901-5256"
+  },
+  {
+    "id": "16",
+    "name": "Southeast District Health Department",
+    "website": "http://www.sedhd.org",
+    "twitter": "",
+    "facebook": "",
+    "rss": "",
+    "phone": "402-274-3993",
+    "email": "vin@sedhd.org",
+    "address": "601 J ST\nAuburn, NE 68305-2341"
+  },
+  {
+    "id": "17",
+    "name": "Southwest Nebraska Public Health Department",
+    "website": "http://www.swhealthdept.com",
+    "twitter": "",
+    "facebook": "",
+    "rss": "",
+    "phone": "(308) 345-4223",
+    "email": "rector@swhealth.ne.gov",
+    "address": "PO BOX 1235\nMc Cook, NE 69001-1235"
+  },
+  {
+    "id": "18",
+    "name": "Three Rivers District Health Department",
+    "website": "http://www.3rphd.org",
+    "twitter": "",
+    "facebook": "",
+    "rss": "",
+    "phone": "(402) 727-5396 (11)",
+    "email": "rra@3rphd.org",
+    "address": "2400 N Lincoln Ave\nFremont, NE 68025-2461"
+  },
+  {
+    "id": "19",
+    "name": "Two Rivers Public Health Department",
+    "website": "http://www.trphd.org",
+    "twitter": "https://twitter.com/TRPublicHealth",
+    "facebook": "",
+    "rss": "",
+    "phone": "(308) 995-4778",
+    "email": "alenti@trphd.org",
+    "address": "701 4Th Ave Ste 1\nHoldrege, NE 68949-2255"
+  },
+  {
+    "id": "20",
+    "name": "West Central District Health Department",
+    "website": "http://www.wcdhd.org",
+    "twitter": "",
+    "facebook": "",
+    "rss": "",
+    "phone": "(308) 696-1201",
+    "email": "nderheidens@wcdhd.org",
+    "address": "111 N Dewey St\nNorth Platte, NE 69101-5439"
+  }
+]

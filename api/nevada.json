@@ -1,0 +1,189 @@
+[
+  {
+    "id": "1",
+    "name": "Carson City Health and Human Services",
+    "website": "http://www.ci.carson-city.nv.us",
+    "twitter": "",
+    "facebook": "",
+    "rss": "",
+    "phone": "(775) 283-7704",
+    "email": "aker@carson.org",
+    "address": "900 E Long St\nCarson City, NV 89706-3129"
+  },
+  {
+    "id": "2",
+    "name": "Churchill County Health Center",
+    "website": "http://health.nv.gov/Nursing_ClinicLocations.htm",
+    "twitter": "",
+    "facebook": "",
+    "rss": "",
+    "phone": "(775) 423-4434",
+    "email": "herry@health.nv.gov",
+    "address": "485 W B St Ste 101\nFallon, NV 89406-2765"
+  },
+  {
+    "id": "3",
+    "name": "Douglas County Clinic",
+    "website": "",
+    "twitter": "",
+    "facebook": "",
+    "rss": "",
+    "phone": "(775) 782-9038",
+    "email": "ooper@health.nv.gov",
+    "address": "PO BOX 218\nMinden, NV 89423-0218"
+  },
+  {
+    "id": "4",
+    "name": "Elko County Clinic",
+    "website": "",
+    "twitter": "",
+    "facebook": "",
+    "rss": "",
+    "phone": "(775) 778-0780",
+    "email": "ooper@health.nv.gov",
+    "address": "762 14Th St\nElko, NV 89801-3413"
+  },
+  {
+    "id": "5",
+    "name": "Humboldt County Clinic",
+    "website": "",
+    "twitter": "",
+    "facebook": "",
+    "rss": "",
+    "phone": "(775) 623-6575",
+    "email": "herry@health.nv.gov",
+    "address": "102 E Haskell St\nWinnemucca, NV 89445-3247"
+  },
+  {
+    "id": "6",
+    "name": "Lander County Clinic",
+    "website": "",
+    "twitter": "",
+    "facebook": "",
+    "rss": "",
+    "phone": "(775) 635-2386",
+    "email": "ollis@health.nv.gov",
+    "address": "150 Palmer St\nBattle Mountain, NV 89820-1930"
+  },
+  {
+    "id": "7",
+    "name": "Lincoln County Clinic",
+    "website": "",
+    "twitter": "",
+    "facebook": "",
+    "rss": "",
+    "phone": "(775) 726-3123",
+    "email": "herry@health.nv.gov",
+    "address": "PO BOX 261\nCaliente, NV 89008-0261"
+  },
+  {
+    "id": "8",
+    "name": "Lyon County Clinic",
+    "website": "",
+    "twitter": "",
+    "facebook": "",
+    "rss": "",
+    "phone": "(775) 684-4283",
+    "email": "ooper@health.nv.gov",
+    "address": "PO BOX 988\nFernley, NV 89408-0988"
+  },
+  {
+    "id": "9",
+    "name": "Lyon County/Dayton Clinic",
+    "website": "",
+    "twitter": "",
+    "facebook": "",
+    "rss": "",
+    "phone": "(775) 246-6211",
+    "email": "ooper@health.nv.gov",
+    "address": "PO BOX 1208\nDayton, NV 89403-1208"
+  },
+  {
+    "id": "10",
+    "name": "Lyon County/Yerington Clinic",
+    "website": "",
+    "twitter": "",
+    "facebook": "",
+    "rss": "",
+    "phone": "(775) 463-6539",
+    "email": "ooper@health.nv.gov",
+    "address": "26 Nevin Way\nYerington, NV 89447-2327"
+  },
+  {
+    "id": "11",
+    "name": "Mineral County Public Health Nurses Office",
+    "website": "",
+    "twitter": "",
+    "facebook": "",
+    "rss": "",
+    "phone": "(775) 945-3657",
+    "email": "herry@health.nv.gov",
+    "address": "PO BOX 1477\nHawthorne, NV 89415-1477"
+  },
+  {
+    "id": "12",
+    "name": "Nye County Clinic",
+    "website": "",
+    "twitter": "",
+    "facebook": "",
+    "rss": "",
+    "phone": "(775) 751-7070",
+    "email": "amrick@health.nv.gov",
+    "address": "250 N Highway 160 Ste 6\nPahrump, NV 89060-4016"
+  },
+  {
+    "id": "13",
+    "name": "Nye and Esmeralda Counties Clinic",
+    "website": "",
+    "twitter": "",
+    "facebook": "",
+    "rss": "",
+    "phone": "(775) 482-6659",
+    "email": "udahl@health.nv.gov",
+    "address": "PO BOX 409\nTonopah, NV 89049-0409"
+  },
+  {
+    "id": "14",
+    "name": "Pershing County Clinic",
+    "website": "",
+    "twitter": "",
+    "facebook": "",
+    "rss": "",
+    "phone": "(775) 273-2041",
+    "email": "ooper@health.nv.gov",
+    "address": "PO BOX 1166\nLovelock, NV 89419-1166"
+  },
+  {
+    "id": "15",
+    "name": "Southern Nevada Health District",
+    "website": "http://www.SNHD.info",
+    "twitter": "https://twitter.com/SNHDinfo",
+    "facebook": "",
+    "rss": "",
+    "phone": "(702) 759-1000",
+    "email": "hdpublicinformation@snhd.org",
+    "address": "PO Box 3902\nLas Vegas, NV 89127-3902"
+  },
+  {
+    "id": "16",
+    "name": "Washoe County Health District",
+    "website": "http://www.washoecounty.us/health",
+    "twitter": "",
+    "facebook": "",
+    "rss": "",
+    "phone": "(775) 328-2400",
+    "email": "ick@washoecounty.us",
+    "address": "1001 E. 9th Street\nReno, NV 89512"
+  },
+  {
+    "id": "17",
+    "name": "White Pine County Clinic",
+    "website": "",
+    "twitter": "",
+    "facebook": "",
+    "rss": "",
+    "phone": "(775) 289-2107",
+    "email": "ollis@health.nv.gov",
+    "address": "995 Campton St\nEly, NV 89301-1987"
+  }
+]

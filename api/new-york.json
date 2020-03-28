@@ -1,0 +1,582 @@
+[
+  {
+    "id": "1",
+    "name": "Albany County Department of Health",
+    "website": "http://www.albanycounty.com",
+    "twitter": "",
+    "facebook": "",
+    "rss": "",
+    "phone": "518-447-4695",
+    "undefined": "175 Green St\nAlbany, NY 12202-2011"
+  },
+  {
+    "id": "2",
+    "name": "Allegany County Health Department",
+    "website": "http://www.alleganycountyhealth.com",
+    "twitter": "",
+    "facebook": "https://www.facebook.com/AlleganyCountyDOH",
+    "rss": "https://www.alleganyco.com/feed/",
+    "phone": "(585) 268-9250",
+    "undefined": "7 Court St\nBelmont, NY 14813-1044"
+  },
+  {
+    "id": "3",
+    "name": "Broome County Health Department",
+    "website": "http://www.gobroomecounty.com/hd",
+    "twitter": "",
+    "facebook": "https://www.facebook.com/BroomeCountyHealth",
+    "rss": "",
+    "phone": "(607) 778-2802",
+    "undefined": "225 Front St\nBinghamton, NY 13905-2424"
+  },
+  {
+    "id": "4",
+    "name": "Cattaraugus County Health Department",
+    "website": "http://www.cattco.org",
+    "twitter": "",
+    "facebook": "",
+    "rss": "",
+    "phone": "(716) 701-3419",
+    "undefined": "1 Leo Moss Dr Ste 4010\nOlean, NY 14760-1154"
+  },
+  {
+    "id": "5",
+    "name": "Cayuga County Department of Health and Human Services",
+    "website": "",
+    "twitter": "",
+    "facebook": "",
+    "rss": "",
+    "phone": "315-253-1560",
+    "undefined": "8 Dill St\nAuburn, NY 13021-3606"
+  },
+  {
+    "id": "6",
+    "name": "Chautauqua County Health Department",
+    "website": "http://www.co.chautauqua.ny.us/health/healthframe.htm",
+    "twitter": "",
+    "facebook": "",
+    "rss": "",
+    "phone": "(716) 753-4590",
+    "undefined": "7 N Erie ST\nMayville, NY 14757-1095"
+  },
+  {
+    "id": "7",
+    "name": "Chemung County Health Department",
+    "website": "https://www.cayugacounty.us/153/Health-Department",
+    "twitter": "",
+    "facebook": "",
+    "rss": "",
+    "phone": "(607) 737-2868",
+    "undefined": "103 Washington ST\nElmira, NY 14901-3220"
+  },
+  {
+    "id": "8",
+    "name": "Chenango County Public Health",
+    "website": "http://www.co.chenango.ny.us",
+    "twitter": "",
+    "facebook": "",
+    "rss": "",
+    "phone": "(607) 337-1650",
+    "undefined": "5 Court St\nNorwich, NY 13815-1695"
+  },
+  {
+    "id": "9",
+    "name": "Clinton County Department of Public Health",
+    "website": "http://www.clintonhealth.org",
+    "twitter": "https://twitter.com/ClintonCountyHD",
+    "facebook": "https://www.facebook.com/clintonhealth",
+    "rss": "",
+    "phone": "(518) 565-4840",
+    "undefined": "133 Margaret St\nPlattsburgh, NY 12901-2926"
+  },
+  {
+    "id": "10",
+    "name": "Columbia County Department of Health",
+    "website": "http://columbiacountyny.com",
+    "twitter": "",
+    "facebook": "https://www.columbiacountynyhealth.com/feed/",
+    "rss": "",
+    "phone": "(518) 828-3358",
+    "undefined": "325 Columbia St\nHudson, NY 12534-1902"
+  },
+  {
+    "id": "11",
+    "name": "Cortland County Health Department",
+    "website": "https://www.cortland-co.org/432/Health-Department",
+    "twitter": "https://twitter.com/CortGovHealth",
+    "facebook": "https://www.facebook.com/CortGovHealth/",
+    "rss": "",
+    "phone": "(607) 753-5135",
+    "undefined": "60 Central Ave\nCortland, NY 13045-2717"
+  },
+  {
+    "id": "12",
+    "name": "Delaware County Public Health Services",
+    "website": "http://www.delawarecountypublichealth.com",
+    "twitter": "https://twitter.com/dcphs",
+    "facebook": "http://delawarecountypublichealth.com/feed/",
+    "rss": "",
+    "phone": "(607) 832-5154",
+    "undefined": "99 Main St\nDelhi, NY 13753-1221"
+  },
+  {
+    "id": "13",
+    "name": "Dutchess County Department of Behavioral and Community Health",
+    "website": "http://www.dutchessny.gov/dbch",
+    "twitter": "",
+    "facebook": "https://www.dutchessny.gov/County-Government/subscription-services.htm",
+    "rss": "",
+    "phone": "845-486-3432",
+    "undefined": "85 Civic Center Plz Ste 106\nPoughkeepsie, NY 12601-2446"
+  },
+  {
+    "id": "14",
+    "name": "Erie County Department of Health",
+    "website": "http://www.erie.gov/health",
+    "twitter": "https://twitter.com/ECDOH",
+    "facebook": "http://www.facebook.com/ecdoh",
+    "rss": "http://www.facebook.com/ecdoh",
+    "phone": "(716) 858-6976",
+    "undefined": "95 Franklin St Rm 910\nBuffalo, NY 14202-3904"
+  },
+  {
+    "id": "15",
+    "name": "Essex County Public Health Department",
+    "website": "",
+    "twitter": "",
+    "facebook": "https://www.facebook.com/EssexCountyPublicHealth/",
+    "rss": "",
+    "phone": "(518) 873-3515",
+    "undefined": "132 Water ST\nElizabethtown, NY 12932"
+  },
+  {
+    "id": "16",
+    "name": "Franklin County Public Health Services",
+    "website": "http://www.franklincony.org/content/Departments/View/2",
+    "twitter": "",
+    "facebook": "https://www.facebook.com/franklincountypublichealth/",
+    "rss": "https://myfcph.org/feed/",
+    "phone": "(518) 481-1710",
+    "undefined": "355 W Main St\nMalone, NY 12953-1827"
+  },
+  {
+    "id": "17",
+    "name": "Fulton County Public Health Department",
+    "website": "http://www.fultoncountyny.gov/publichealth/index.php",
+    "twitter": "",
+    "facebook": "",
+    "rss": "",
+    "phone": "(518) 736-5720",
+    "undefined": "2714 State Highway 29\nJohnstown, NY 12095-0415"
+  },
+  {
+    "id": "18",
+    "name": "Genesee County Health Department",
+    "website": "http://www.co.genesee.ny.us/departments/health/index.html",
+    "twitter": "https://twitter.com/gohealthny",
+    "facebook": "https://www.facebook.com/GOHealthNY/",
+    "rss": "",
+    "phone": "(585) 344-2580 (5555)",
+    "undefined": "3837 W Main Street Rd\nBatavia, NY 14020-9404"
+  },
+  {
+    "id": "19",
+    "name": "Greene County Public Health Department",
+    "website": "",
+    "twitter": "https://www.twitter.com/GreeneNYHealth/",
+    "facebook": "https://www.facebook.com/GreeneNYHealth/",
+    "rss": "",
+    "phone": "(518) 719-3630",
+    "undefined": "411 Main St\nCatskill, NY 12414-1366"
+  },
+  {
+    "id": "20",
+    "name": "Hamilton County Public Health Nursing Service",
+    "website": "",
+    "twitter": "https://twitter.com/hamcohealth",
+    "facebook": "https://www.facebook.com/HamCoHealth/",
+    "rss": "",
+    "phone": "(518) 648-6497",
+    "undefined": "PO BOX 250\nIndian Lake, NY 12842-0250"
+  },
+  {
+    "id": "21",
+    "name": "Herkimer County Public Health Nursing Service",
+    "website": "",
+    "twitter": "",
+    "facebook": "",
+    "rss": "",
+    "phone": "(315) 867-1176",
+    "undefined": "301 N Washington St Ste 2300\nHerkimer, NY 13350-1299"
+  },
+  {
+    "id": "22",
+    "name": "Jefferson County Public Health Service",
+    "website": "http://www.jcphs.org",
+    "twitter": "https://twitter.com/JCPHS",
+    "facebook": "",
+    "rss": "",
+    "phone": "(315) 786-3710",
+    "undefined": "531 Meade St\nWatertown, NY 13601-1225"
+  },
+  {
+    "id": "23",
+    "name": "Lewis County Public Health Agency",
+    "website": "http://lewiscountypublichealth.com",
+    "twitter": "https://twitter.com/HealthLewis",
+    "facebook": "",
+    "rss": "",
+    "phone": "(315) 376-5453",
+    "undefined": "7785 N State ST Ste 2\nLowville, NY 13367-1229"
+  },
+  {
+    "id": "24",
+    "name": "Livingston County Department of Health",
+    "website": "http://www.livingstoncounty.us/doh.htm",
+    "twitter": "https://twitter.com/LivingstonCoNY",
+    "facebook": "",
+    "rss": "",
+    "phone": "585-243-7270",
+    "undefined": "2 Murray Hill Dr\nMount Morris, NY 14510-1122"
+  },
+  {
+    "id": "25",
+    "name": "Madison County Health Department",
+    "website": "http://www.healthymadisoncounty.org",
+    "twitter": "",
+    "facebook": "",
+    "rss": "",
+    "phone": "(315) 366-2361",
+    "undefined": "PO BOX 605\nWampsville, NY 13163-0605"
+  },
+  {
+    "id": "26",
+    "name": "Monroe County Department of Public Health",
+    "website": "",
+    "twitter": "",
+    "facebook": "",
+    "rss": "",
+    "phone": "(585) 753-2989",
+    "undefined": "111 Westfall Rd Rm 950\nRochester, NY 14620-4647"
+  },
+  {
+    "id": "27",
+    "name": "Montgomery County Public Health",
+    "website": "https://www.co.montgomery.ny.us/sites/public/government/publichealth/PublicHealth_Development/PublicHealthContact.aspx",
+    "twitter": "",
+    "facebook": "",
+    "rss": "",
+    "phone": "(518) 853-3531",
+    "undefined": "County Annex Bldg, PO Box 1500\nFonda, NY 12068-1500"
+  },
+  {
+    "id": "28",
+    "name": "Nassau County Department of Health",
+    "website": "http://www.nassaucountyny.gov/agencies/Health/index.html",
+    "twitter": "",
+    "facebook": "",
+    "rss": "",
+    "phone": "(516) 227-9500",
+    "undefined": "200 County Seat Drive\nMineola, NY 11501"
+  },
+  {
+    "id": "29",
+    "name": "New York City Department of Health and Mental Hygiene",
+    "website": "",
+    "twitter": "",
+    "facebook": "",
+    "rss": "",
+    "phone": "347-396-4131",
+    "undefined": "Gotham Center\nLong Island City, NY 11101-4131"
+  },
+  {
+    "id": "30",
+    "name": "Niagara County Health Department",
+    "website": "http://www.niagaracounty.com/Health",
+    "twitter": "",
+    "facebook": "",
+    "rss": "",
+    "phone": "(716) 439-7435",
+    "undefined": "5467 Upper Mountain Rd Ste 100\nLockport, NY 14094-1894"
+  },
+  {
+    "id": "31",
+    "name": "Oneida County Health Department",
+    "website": "http://ocgov.net/oneida/health",
+    "twitter": "",
+    "facebook": "",
+    "rss": "",
+    "phone": "(315) 798-5220",
+    "undefined": "185 Genesee St Ste 500\nUtica, NY 13501-2110"
+  },
+  {
+    "id": "32",
+    "name": "Onondaga County Health Department",
+    "website": "http://www.ongov.net/health/",
+    "twitter": "",
+    "facebook": "",
+    "rss": "",
+    "phone": "315-435-3155",
+    "undefined": "421 Montgomery St Fl 9Th\nSyracuse, NY 13202-2923"
+  },
+  {
+    "id": "33",
+    "name": "Ontario County Public Health",
+    "website": "http://www.ontariocountypublichealth.com/",
+    "twitter": "",
+    "facebook": "",
+    "rss": "",
+    "phone": "(585) 396-4343",
+    "undefined": "3019 County Complex Dr\nCanandaigua, NY 14424-9505"
+  },
+  {
+    "id": "34",
+    "name": "Orange County Department of Health",
+    "website": "http://www.co.orange.ny.us",
+    "twitter": "",
+    "facebook": "",
+    "rss": "",
+    "phone": "845-291-2332",
+    "undefined": "124 Main St\nGoshen, NY 10924-2124"
+  },
+  {
+    "id": "35",
+    "name": "Orleans County Health Department",
+    "website": "http://www.orleansny.com/publichealth",
+    "twitter": "https://twitter.com/gohealthny",
+    "facebook": "",
+    "rss": "",
+    "phone": "(585) 589-3250",
+    "undefined": "14012 Route 31 West\nAlbion, NY 14411-9301"
+  },
+  {
+    "id": "36",
+    "name": "Oswego County Health Department",
+    "website": "http://www.oswegocounty.com",
+    "twitter": "",
+    "facebook": "",
+    "rss": "",
+    "phone": "(315) 349-3540",
+    "undefined": "70 Bunner St\nOswego, NY 13126-3357"
+  },
+  {
+    "id": "37",
+    "name": "Otsego County Department of Health",
+    "website": "http://www.otsegocounty.com/depts/doh/",
+    "twitter": "",
+    "facebook": "",
+    "rss": "",
+    "phone": "(607) 547-4230",
+    "undefined": "140 County Highway 33W\nCooperstown, NY 13326-4953"
+  },
+  {
+    "id": "38",
+    "name": "Putnam County Health Department",
+    "website": "http://putnamcountyny.com/healthdept/shtml",
+    "twitter": "",
+    "facebook": "",
+    "rss": "",
+    "phone": "(845) 808-1390",
+    "undefined": "1 Geneva Rd\nBrewster, NY 10509-2339"
+  },
+  {
+    "id": "39",
+    "name": "Rensselaer County Health Department",
+    "website": "http://www.rensco.com",
+    "twitter": "",
+    "facebook": "",
+    "rss": "",
+    "phone": "(518) 270-2626",
+    "undefined": "1600 7Th Ave\nTroy, NY 12180-3410"
+  },
+  {
+    "id": "40",
+    "name": "Rockland County Department of Health",
+    "website": "http://www.co.rockland.ny.us/health/",
+    "twitter": "https://twitter.com/rockhealth",
+    "facebook": "",
+    "rss": "",
+    "phone": "(845) 364-2512",
+    "undefined": "50 Sanatorium Rd Bldg D\nPomona, NY 10970-3555"
+  },
+  {
+    "id": "41",
+    "name": "Saratoga County Public Health Nursing Services",
+    "website": "http://www.saratogacountyny.gov/departments.asp?did=34",
+    "twitter": "",
+    "facebook": "",
+    "rss": "",
+    "phone": "(518) 584-7460 (8333)",
+    "undefined": "31 Woodlawn Ave Ste 1\nSaratoga Springs, NY 12866-2126"
+  },
+  {
+    "id": "42",
+    "name": "Schenectady County Public Health Services",
+    "website": "http://www.schenectadycounty.com",
+    "twitter": "",
+    "facebook": "",
+    "rss": "",
+    "phone": "(518) 386-2810",
+    "undefined": "107 Nott Ter\nSchenectady, NY 12308-3170"
+  },
+  {
+    "id": "43",
+    "name": "Schoharie County Health Department",
+    "website": "",
+    "twitter": "",
+    "facebook": "",
+    "rss": "",
+    "phone": "(518) 295-8365",
+    "undefined": "276 Main St, PO BOX 667\nSchoharie, NY 12157-0667"
+  },
+  {
+    "id": "44",
+    "name": "Schuyler County Public Health",
+    "website": "http://www.schuylercounty.us/publichealth",
+    "twitter": "https://twitter.com/SchuylerCoPH",
+    "facebook": "",
+    "rss": "",
+    "phone": "(607) 535-8140",
+    "undefined": "106 S Perry St Ste 4\nWatkins Glen, NY 14891-1615"
+  },
+  {
+    "id": "45",
+    "name": "Seneca County Health Department",
+    "website": "",
+    "twitter": "",
+    "facebook": "",
+    "rss": "",
+    "phone": "(315) 539-1925",
+    "undefined": "2465 Bonadent DR Ste 3\nWaterloo, NY 13165-1649"
+  },
+  {
+    "id": "46",
+    "name": "St. Lawrence County Health Department",
+    "website": "http://www.co.st-lawrence.ny.us/Departments/PublicHealth/",
+    "twitter": "",
+    "facebook": "",
+    "rss": "",
+    "phone": "315-386-2325",
+    "undefined": "80 SH 310\nCanton, NY 13617-1476"
+  },
+  {
+    "id": "47",
+    "name": "Steuben County Public Health",
+    "website": "http://www.steubencony.org/PublicHealth",
+    "twitter": "https://twitter.com/SteubenCoHealth",
+    "facebook": "",
+    "rss": "",
+    "phone": "(607) 664-2438",
+    "undefined": "3 E Pulteney Sq\nBath, NY 14810-1510"
+  },
+  {
+    "id": "48",
+    "name": "Suffolk County Department of Health Services",
+    "website": "http://www.co.suffolk.ny.us/health",
+    "twitter": "https://twitter.com/SuffolkCoHealth",
+    "facebook": "",
+    "rss": "",
+    "phone": "(631) 854-0100",
+    "undefined": "3500 Sunrise Highway\nGreat River, NY 11739-1001"
+  },
+  {
+    "id": "49",
+    "name": "Sullivan County Public Health Services",
+    "website": "http://co.sullivan.ny.us/",
+    "twitter": "",
+    "facebook": "",
+    "rss": "",
+    "phone": "(845) 292-5910 (2179)",
+    "undefined": "50 Community Ln\nLiberty, NY 12754-2851"
+  },
+  {
+    "id": "50",
+    "name": "Tioga County Health Department",
+    "website": "",
+    "twitter": "",
+    "facebook": "",
+    "rss": "",
+    "phone": "607-687-8630",
+    "undefined": "PO BOX 120\nOwego, NY 13827-0120"
+  },
+  {
+    "id": "51",
+    "name": "Tompkins County Health Department",
+    "website": "http://www.tompkins-co.org/health/index.htm",
+    "twitter": "",
+    "facebook": "",
+    "rss": "",
+    "phone": "(607) 274-6674",
+    "undefined": "55 Brown Rd\nIthaca, NY 14850-1247"
+  },
+  {
+    "id": "52",
+    "name": "Ulster County Health Department",
+    "website": "",
+    "twitter": "",
+    "facebook": "",
+    "rss": "",
+    "phone": "(845) 340-3009",
+    "undefined": "239 Golden Hill LN Ofc Building\nKingston, NY 12401-6441"
+  },
+  {
+    "id": "53",
+    "name": "Warren County Health Services",
+    "website": "",
+    "twitter": "",
+    "facebook": "",
+    "rss": "",
+    "phone": "(518) 761-6580",
+    "undefined": "1340 State Route 9\nLake George, NY 12845-3434"
+  },
+  {
+    "id": "54",
+    "name": "Washington County Public Health Department",
+    "website": "",
+    "twitter": "",
+    "facebook": "",
+    "rss": "",
+    "phone": "(518) 746-2400",
+    "undefined": "415 Lower Main St\nHudson Falls, NY 12839-2661"
+  },
+  {
+    "id": "55",
+    "name": "Wayne County Public Health Service",
+    "website": "http://www.co.wayne.ny.us",
+    "twitter": "",
+    "facebook": "",
+    "rss": "",
+    "phone": "(315) 946-5749",
+    "undefined": "1519 Nye Rd Ste 200\nLyons, NY 14489-9112"
+  },
+  {
+    "id": "56",
+    "name": "Westchester County Health Department",
+    "website": "http://www.westchestergov.com",
+    "twitter": "",
+    "facebook": "",
+    "rss": "",
+    "phone": "(914) 864-7292",
+    "undefined": "25 Moore Ave\nMount Kisco, NY 10549"
+  },
+  {
+    "id": "57",
+    "name": "Wyoming County Health Department",
+    "website": "http://www.wyomingco.com",
+    "twitter": "",
+    "facebook": "",
+    "rss": "",
+    "phone": "(585) 786-8890",
+    "undefined": "5362 Mungers Mill Rd, Bldg A\nSilver Springs, NY 14550-9704"
+  },
+  {
+    "id": "58",
+    "name": "Yates County Public Health Department",
+    "website": "http://www.yatescountypublichealth.org",
+    "twitter": "",
+    "facebook": "",
+    "rss": "",
+    "phone": "(315) 536-5160 (5195)",
+    "undefined": "417 Liberty ST Ste 2021\nPenn Yan, NY 14527-1124"
+  }
+]

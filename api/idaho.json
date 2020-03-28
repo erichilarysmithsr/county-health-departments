@@ -1,0 +1,79 @@
+[
+  {
+    "id": "1",
+    "name": "Central District Health (Region 4)",
+    "website": "http://www.cdhd.idaho.gov",
+    "twitter": "https://twitter.com/cdhdidaho",
+    "facebook": "",
+    "rss": "",
+    "phone": "(208) 327-8501",
+    "email": "uke@cdhd.idaho.gov",
+    "address": "707 N Armstrong Pl\nBoise, ID 83704-0825"
+  },
+  {
+    "id": "2",
+    "name": "Eastern Idaho Public Health District (Region 7)",
+    "website": "http://www.phd7.idaho.gov",
+    "twitter": "",
+    "facebook": "",
+    "rss": "",
+    "phone": "(208) 533-3163",
+    "email": "ackow@eiph.idaho.gov",
+    "address": "1250 Hollipark Dr\nIdaho Falls, ID 83401-6217"
+  },
+  {
+    "id": "3",
+    "name": "North Central District Health Department (Region 2)",
+    "website": "http://www.ncdhd.us",
+    "twitter": "",
+    "facebook": "",
+    "rss": "",
+    "phone": "(208) 799-3100 (1344)",
+    "email": "oehrle@phd2.idaho.gov",
+    "address": "215 10Th St\nLewiston, ID 83501-1910"
+  },
+  {
+    "id": "4",
+    "name": "Panhandle Health District (Region 1)",
+    "website": "http://www.panhandlehealthdistrict.org/",
+    "twitter": "https://twitter.com/phdidaho",
+    "facebook": "",
+    "rss": "",
+    "phone": "(208) 415-5102",
+    "email": "halen@phd1.idaho.gov",
+    "address": "8500 N Atlas Rd\nHayden, ID 83835-8332"
+  },
+  {
+    "id": "5",
+    "name": "South Central Public Health District (PHD 5)",
+    "website": "http://www.phd5.idaho.gov",
+    "twitter": "",
+    "facebook": "",
+    "rss": "",
+    "phone": "(208) 737-5902 (200)",
+    "email": "owyer@phd5.idaho.gov",
+    "address": "1020 Washington St N\nTwin Falls, ID 83301-3156"
+  },
+  {
+    "id": "6",
+    "name": "Southeastern Idaho Public Health",
+    "website": "http://www.sdhdidaho.org",
+    "twitter": "https://twitter.com/siphidaho",
+    "facebook": "",
+    "rss": "",
+    "phone": "(208) 233-9080",
+    "email": "ann@siph.idaho.gov",
+    "address": "1901 Alvin Ricken Dr\nPocatello, ID 83201-2727"
+  },
+  {
+    "id": "7",
+    "name": "Southwest District Health Department (Region 3)",
+    "website": "http://www.swdh.org",
+    "twitter": "",
+    "facebook": "",
+    "rss": "",
+    "phone": "(208) 455-5300",
+    "email": "kole.zogg@phd3.idaho.gov",
+    "address": "13307 Miami Ln\nCaldwell, ID 83607-4701"
+  }
+]
